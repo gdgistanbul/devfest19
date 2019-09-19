@@ -9,14 +9,14 @@
   "endDate": "2019-11-24T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#498fcc",
+    "backgroundColor": "#498fcc"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest",
-  "disabledSchedule": true,
+  "hashtag": "DFIst19",
+  "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
@@ -24,31 +24,21 @@
       "label": "Home"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
       "route": "team",
-      "permalink": "/team/",
+      "permalink": "https://www.gdgistanbul.com/team",
       "label": "Team"
     },
     {
       "route": "blog",
-      "permalink": "/blog/",
+      "permalink": "https://medium.com/gdg-istanbul",
       "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Lets Build Together",
       "background": {
-        "color": "#673ab7",
+        "color": "#498fcc",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
@@ -113,20 +103,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "UNIQ Hall",
+    "city": "Istanbul",
+    "short": "Istanbul, Turkey",
+    "address": "Huzur Mh., Maslak Ayazağa Cd. No:4, Istanbul, Turkey",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 41.108625,
+      "longitude": 29.007145,
+      "zoom": 11
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 41,
+      "longitude": 29
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Hayata dair tüm renkleri taşıyan UNIQ İstanbul, kültür-sanat, eğlence ve iş dünyasını, doğa ile iç içe, ayrıcalıklı bir ortamda bir araya getiriyor."
   },
   "mediaQueries": {
     "xs": {
@@ -147,24 +137,20 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/GDGIstanbul/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/gdgistanbul/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/gdgistanbul"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/watch?v=JNyfHOmQheA&list=PLSV3VvYZSJP1bJzotSmVwWj0XcwnMttAw"
       }
     ],
     "share": [
@@ -178,7 +164,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "devfest@gdgistanbul.com",
   "signInProviders": {
     "providersData": [
       {
@@ -217,7 +203,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 3
     }
   }
 }
