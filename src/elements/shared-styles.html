@@ -8,17 +8,17 @@
       :host {
         --dark-primary-color: #FD8369;
         --default-primary-color: #FD8369;
-        --focused-color: #311B92;
-        --light-primary-color: #D1C4E9;
-        --text-primary-color: #FFFFFF;
-        --accent-color: #FD8369;
-        --primary-background-color: #FFFFFF;
-        --primary-text-color: #424242;
-        --secondary-text-color: #757575;
+        --focused-color: #FD8369;
+        --light-primary-color: #FECC92;
+        --text-primary-color: #333D47;
+        --accent-color: #FFF7F5;
+        --primary-background-color: #F5F5F5;
+        --primary-text-color: #333D47;
+        --secondary-text-color: #89A2BB;
         --disabled-text-color: #BDBDBD;
-        --divider-color: #EDEDED;
+        --divider-color: #B6B6B6;
         --footer-background-color: #F5F5F5;
-        --footer-text-color: #616161;
+        --footer-text-color: #333D47;
         --twitter-color: #4099FF;
         --facebook-color: #3B5998;
         --border-light-color: #E2E2E2;
@@ -30,6 +30,10 @@
         --additional-background-color: #f7f7f7;
         --contrast-additional-background-color: #e8e8e8;
         --animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+        --default-ticket-primary-color: #FD8369;
+        --default-ticket-primary-text-color: #FFFFFFF;
+        
 
         --slideAnimation: 0.4s cubic-bezier(0, 0, 0.2, 1);
         --border-radius: 4px;
@@ -129,6 +133,10 @@
       paper-button[primary][invert] {
         color: var(--default-primary-color);
         background-color: var(--text-primary-color);
+      }
+      paper-button[primary][ticket] {
+        color: var(--default-ticket-primary-text-color);
+        background-color: var(--default-ticket-primary-color);
       }
 
       paper-button[primary][invert]:hover {

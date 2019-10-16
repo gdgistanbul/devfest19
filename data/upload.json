@@ -1,0 +1,34 @@
+{
+    "MuhammedSalih": {
+        "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He organises the Flutter Berlin meetup. He also likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.",
+        "company": "Onefootball GmbH",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Istanbul",
+        "featured": true,
+        "order": 0,
+        "name": "Muhammed Salih Güler",
+        "title": "Android Engineer/Google Developer Expert for Flutter and Dart",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fsalih.png?alt=media&token=f5aa105e-d4a9-4aa7-b9a5-37f6f2fb2c9c",
+        "shortBio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart.",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/knelsoncloud/",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/salihgueler",
+                "name": "Twitter"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/salihgueler",
+                "name": "Github"
+            }
+        ],
+        "tags": [
+            "Machine Learning & AI"
+        ]
+    }
+}
