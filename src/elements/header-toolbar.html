@@ -23,7 +23,7 @@
         color: var(--hero-font-color, '#fff');
       }
 
-      :host([transparent]) .toolbar-logo {
+      :host([transparent]) {
         background-color: var(--hero-logo-color);
         opacity: var(--hero-logo-opacity, 1);
       }
@@ -39,9 +39,10 @@
         display: block;
         width: 150px;
         height: 32px;
-        background-color:#FD8369;
-        transition: background-color var(--animation);
-        -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
+        /* background-color: #FD8369; */
+        /* transition: background-color var(--animation); */
+        background: url('/images/logo-monochrome.svg') no-repeat;
+        /* -webkit-mask: url('/images/logo-monochrome.svg') no-repeat; */
       }
 
       .nav-items {
