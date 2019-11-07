@@ -1,1 +1,151 @@
-{"GDGIstanbul":{"company":"Google","companyLogoUrl":"https://devfest.istanbul/images/logos/google.svg","country":"Istanbul","socials":[{"name":"Linkedin","icon":"linkedin","link":"https://www.linkedin.com/in/gdgistanbul/"},{"name":"Twitter","icon":"twitter","link":"https://twitter.com/gdgistanbul"}],"bio":"TBD","shortBio":"TBD","photoUrl":"https://gdgistanbul.com/img/gdglogo.19fe90be.png","name":"GDG Istanbul Soon","tags":["Machine Learning","AI","Android","Assistant","Flutter","Firebase","Generic Software Engineering","Google Technologies","Web Technologies","Web"],"title":"Community","order":0,"featured":true},"KevinNelson":{"shortBio":"Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners.","photoUrl":"https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fkbnelson%20headshot%202018%201MB.jpg?alt=media&token=e88889af-8457-4109-849f-53dc4dc116cc","name":"Kevin Nelson","tags":["Machine Learning & AI"],"title":"Architect Advocate","order":0,"featured":true,"company":"Google","companyLogoUrl":"https://devfest.istanbul/images/logos/google.svg","country":"Istanbul","socials":[{"icon":"linkedin","link":"https://www.linkedin.com/in/knelsoncloud/","name":"Linkedin"},{"name":"Twitter","icon":"twitter","link":"https://twitter.com/knelsoncloud"}],"bio":"Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners. He speaks frequently at developer-focused events around the world. Before joining the Cloud team, he was a lead Product Manager on Google Drive for two years. Prior to joining Google in 2014, Kevin was a successful serial entrepreneur with over 20 years of experience building and managing software and SAAS companies. In his free time, Kevin is an avid traveler, sailor, brewer and history buff who loves stargazing and studying the Age of Exploration. Mr. Nelson received his degree in Information and Computer Science from the University of California at Irvine."},"MuhammedSalih":{"shortBio":"Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart.","photoUrl":"https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fsalih.png?alt=media&token=f5aa105e-d4a9-4aa7-b9a5-37f6f2fb2c9c","name":"Muhammed Salih Güler","tags":["Machine Learning & AI"],"title":"Android Engineer/Google Developer Expert for Flutter and Dart","order":0,"featured":true,"company":"Onefootball GmbH","companyLogoUrl":"https://devfest.istanbul/images/logos/google.svg","country":"Istanbul","socials":[{"icon":"linkedin","link":"https://www.linkedin.com/in/knelsoncloud/","name":"Linkedin"},{"icon":"twitter","link":"https://twitter.com/salihgueler","name":"Twitter"},{"icon":"github","link":"https://github.com/salihgueler","name":"Github"}],"bio":"Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He organises the Flutter Berlin meetup. He also likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences."},"MuratYener":{"order":0,"featured":true,"company":"Google","companyLogoUrl":"https://devfest.istanbul/images/logos/google.svg","country":"Istanbul","socials":[{"icon":"linkedin","link":"https://www.linkedin.com/in/yenerm/","name":"Linkedin"},{"name":"Twitter","icon":"twitter","link":"https://twitter.com/yenerm"}],"bio":"Murat Yener is a Developer Advocate for Android at Google. He is a code geek, open source committer, Java Champion and the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley.","shortBio":"Murat Yener is a Developer Advocate for Android at Google.","photoUrl":"https://pbs.twimg.com/profile_images/1123009913679011840/lb-cCjyA_400x400.png","name":"Murat Yener","tags":["Android"],"title":"Developer Advocate"},"SashcaWolter":{"photoUrl":"http://www.wolter.biz/blog/wp-content/uploads/2008/01/speaking.jpg","name":"Sascha Wolter","tags":["Machine Learning & AI"],"title":"Principal Technology Evangelist Conversational AI & Senior User Experience Consultant Conversation Design","order":0,"featured":true,"company":"Cognigy","companyLogoUrl":"https://cognigy.com/wp-content/uploads/2019/04/cognigy_logo.svg","country":"Istanbul","socials":[{"name":"Linkedin","icon":"linkedin","link":"https://www.linkedin.com/in/saschawolter/"},{"name":"Twitter","icon":"twitter","link":"https://twitter.com/saschawolter"}],"bio":"Sascha Wolter is a professional developer and user experience enthusiast. His true passion is to improve the human-computer interaction: He loves to build conversational and multimodal experiences with text (chatbots) and voice (aka Alexa). Sascha works as a consultant, trainer, lecturer, speaker, and author who focusses on understanding, innovation, and value. As such he is committed to the interests of all kinds of developers, users, and prosumers. When Sascha is not developing new ideas, he likes hiking and skiing in the mountains, enjoys good Italian coffee and loves to explore the world together with his kids in an odd way.\n\nAfter organizing internationally renowned events, he is now board member of the Usability & User Experience working group at the federal association BITKOM. Furthermore, he is Google Developer Expert for IoT/Assistant (GDE) and Microsoft Most Valuable Professional (MVP). Before he joined the Conversational AI Platform Company Cognigy as Senior UX Consultant and Principal Technology Evangelist, he worked as Senior Developer Evangelist at Deutsche Telekom (i.e. Smart Home) and Senior Technology Evangelist for Alexa at Amazon.","shortBio":"Sascha Wolter is a professional developer and user experience enthusiast."}}
+{
+    "GDGIstanbul": {
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Istanbul",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/gdgistanbul/"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/gdgistanbul"
+            }
+        ],
+        "bio": "TBD",
+        "shortBio": "TBD",
+        "photoUrl": "https://gdgistanbul.com/img/gdglogo.19fe90be.png",
+        "name": "GDG Istanbul Soon",
+        "tags": [
+            "Machine Learning",
+            "AI",
+            "Android",
+            "Assistant",
+            "Flutter",
+            "Firebase",
+            "Generic Software Engineering",
+            "Google Technologies",
+            "Web Technologies",
+            "Web"
+        ],
+        "title": "Community",
+        "order": 0,
+        "featured": true
+    },
+    "KevinNelson": {
+        "shortBio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fkbnelson%20headshot%202018%201MB.jpg?alt=media&token=e88889af-8457-4109-849f-53dc4dc116cc",
+        "name": "Kevin Nelson",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "title": "Architect Advocate",
+        "order": 0,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Istanbul",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/knelsoncloud/",
+                "name": "Linkedin"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/knelsoncloud"
+            }
+        ],
+        "bio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners. He speaks frequently at developer-focused events around the world. Before joining the Cloud team, he was a lead Product Manager on Google Drive for two years. Prior to joining Google in 2014, Kevin was a successful serial entrepreneur with over 20 years of experience building and managing software and SAAS companies. In his free time, Kevin is an avid traveler, sailor, brewer and history buff who loves stargazing and studying the Age of Exploration. Mr. Nelson received his degree in Information and Computer Science from the University of California at Irvine."
+    },
+    "MuhammedSalih": {
+        "shortBio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fsalih.png?alt=media&token=f5aa105e-d4a9-4aa7-b9a5-37f6f2fb2c9c",
+        "name": "Muhammed Salih Güler",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "title": "Android Engineer/Google Developer Expert for Flutter and Dart",
+        "order": 0,
+        "featured": true,
+        "company": "Onefootball GmbH",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Istanbul",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/knelsoncloud/",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/salihgueler",
+                "name": "Twitter"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/salihgueler",
+                "name": "Github"
+            }
+        ],
+        "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He organises the Flutter Berlin meetup. He also likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences."
+    },
+    "MuratYener": {
+        "order": 0,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Istanbul",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/yenerm/",
+                "name": "Linkedin"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/yenerm"
+            }
+        ],
+        "bio": "Murat Yener is a Developer Advocate for Android at Google. He is a code geek, open source committer, Java Champion and the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley.",
+        "shortBio": "Murat Yener is a Developer Advocate for Android at Google.",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1123009913679011840/lb-cCjyA_400x400.png",
+        "name": "Murat Yener",
+        "tags": [
+            "Android"
+        ],
+        "title": "Developer Advocate"
+    },
+    "SashcaWolter": {
+        "photoUrl": "http://www.wolter.biz/blog/wp-content/uploads/2008/01/speaking.jpg",
+        "name": "Sascha Wolter",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "title": "Principal Technology Evangelist Conversational AI & Senior User Experience Consultant Conversation Design",
+        "order": 0,
+        "featured": true,
+        "company": "Cognigy",
+        "companyLogoUrl": "https://cognigy.com/wp-content/uploads/2019/04/cognigy_logo.svg",
+        "country": "Istanbul",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/saschawolter/"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/saschawolter"
+            }
+        ],
+        "bio": "Sascha Wolter is a professional developer and user experience enthusiast. His true passion is to improve the human-computer interaction: He loves to build conversational and multimodal experiences with text (chatbots) and voice (aka Alexa). Sascha works as a consultant, trainer, lecturer, speaker, and author who focusses on understanding, innovation, and value. As such he is committed to the interests of all kinds of developers, users, and prosumers. When Sascha is not developing new ideas, he likes hiking and skiing in the mountains, enjoys good Italian coffee and loves to explore the world together with his kids in an odd way.\n\nAfter organizing internationally renowned events, he is now board member of the Usability & User Experience working group at the federal association BITKOM. Furthermore, he is Google Developer Expert for IoT/Assistant (GDE) and Microsoft Most Valuable Professional (MVP). Before he joined the Conversational AI Platform Company Cognigy as Senior UX Consultant and Principal Technology Evangelist, he worked as Senior Developer Evangelist at Deutsche Telekom (i.e. Smart Home) and Senior Technology Evangelist for Alexa at Amazon.",
+        "shortBio": "Sascha Wolter is a professional developer and user experience enthusiast."
+    }
+}

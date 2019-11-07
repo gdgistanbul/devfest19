@@ -1,0 +1,8 @@
+{
+    "000": {
+        "name": "GDG Lviv",
+        "logoUrl": "../images/logos/gdg-lviv.svg",
+        "order": 9,
+        "url": "https://github.com/gdg-x/hoverboard"
+    }
+}

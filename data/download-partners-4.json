@@ -1,0 +1,14 @@
+{
+    "1": {
+        "title": "General Partner",
+        "order": 0
+    },
+    "2": {
+        "order": 1,
+        "title": "Silver Partners"
+    },
+    "3": {
+        "order": 2,
+        "title": "Bronze Partners"
+    }
+}

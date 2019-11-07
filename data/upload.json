@@ -1,34 +1,24 @@
 {
-    "MuhammedSalih": {
-        "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He organises the Flutter Berlin meetup. He also likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.",
-        "company": "Onefootball GmbH",
-        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-        "country": "Istanbul",
+    "MateuszHerych": {
+        "bio": "Mateusz works as a Head of Mobile Platforms at IG - originally coming from Krakow, Poland, currently living in London. He is a member of the Google Developer Expert program on Android, and a long-time GDG Krakow organizer. Father of twins, an avid fan of rail transportation and football.",
+        "company": "IG",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEWbGiG2Avt9w/company-logo_200_200/0?e=2159024400&v=beta&t=a6ioQxzmzDSZeNzy9HBIySE9XeZtsKC9Jd0vP9ksxeM",
+        "country": "Krakow",
         "featured": true,
-        "order": 0,
-        "name": "Muhammed Salih Güler",
-        "title": "Android Engineer/Google Developer Expert for Flutter and Dart",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fsalih.png?alt=media&token=f5aa105e-d4a9-4aa7-b9a5-37f6f2fb2c9c",
-        "shortBio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart.",
+        "order": 1,
+        "name": "Mateusz Herych",
+        "title": "Android GDE",
+        "photoUrl": "http://www.uamobile.org/sites/default/files/mateusz_herych_1.jpg",
+        "shortBio": "Mateusz works as a Head of Mobile Platforms at IG - originally coming from Krakow, Poland, currently living in London.",
         "socials": [
             {
-                "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/knelsoncloud/",
-                "name": "Linkedin"
-            },
-            {
                 "icon": "twitter",
-                "link": "https://twitter.com/salihgueler",
+                "link": "https://twitter.com/mherych",
                 "name": "Twitter"
-            },
-            {
-                "icon": "github",
-                "link": "https://github.com/salihgueler",
-                "name": "Github"
             }
         ],
         "tags": [
-            "Machine Learning & AI"
+            "Mobile Technologies"
         ]
     }
 }

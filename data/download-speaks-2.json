@@ -1,0 +1,336 @@
+{
+    "AlaaAlnuaimi": {
+        "title": "Creative Director, Founder",
+        "order": 1,
+        "featured": true,
+        "company": "-99 design studio",
+        "companyLogoUrl": "https://www.minus99.com/assets/uploads/radar-placeholder.png",
+        "country": "Istanbul",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/alacaesar"
+            },
+            {
+                "name": "Github",
+                "icon": "github",
+                "link": "https://github.com/alacaesar"
+            }
+        ],
+        "bio": "My name is Alaa Alnuaimi, I am a designer and developer living in Istanbul. I work as creative director at -99 design studio, which I have also co-founded. I also hold the position of Front-end team leader at Proj-e Software. For the last two years code jury at Awwwards. Raised by a painter and sculptor I have a great deal of passion for fine art and calligraphy. I am lucky to have both design and technical background, allowing me to work across both disciplines.",
+        "shortBio": "My name is Alaa Alnuaimi, I am a designer and developer living in Istanbul.",
+        "photoUrl": "https://www.minus99.com/temp/Alaa-Alnuaimi.jpg",
+        "name": "Alaa Alnuaimi",
+        "tags": [
+            "Web Technologies"
+        ]
+    },
+    "CarlosSanchez": {
+        "tags": [
+            "Cloud"
+        ],
+        "title": "Senior Cloud Software Engineer",
+        "order": 0,
+        "featured": true,
+        "company": "Adobe",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/adobe-logo-png-02611.png?alt=media&token=1d982637-5ff0-4172-843b-0f391677a8fe",
+        "country": "Spain",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/carlossg/",
+                "name": "Linkedin"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/csanchez"
+            }
+        ],
+        "bio": "Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery. Involved in Open Source for over 15 years, he is the author of the Jenkins Kubernetes plugin and a member of the Apache Software Foundation amongst other open source groups, contributing to several projects, such as Jenkins or Apache Maven. He works at Adobe building new products on the cloud.",
+        "shortBio": "Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery.",
+        "photoUrl": "https://en.gravatar.com/userimage/1318030/75ebccdeae70ab23c2f9a117fd6646e3.jpg?size=2000",
+        "name": "Carlos Sanchez"
+    },
+    "CarmenAndoh": {
+        "tags": [
+            "Golang"
+        ],
+        "title": "Open Source Strategy Lead, Go Language and Ecosystem",
+        "order": 0,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Santa Clara, California",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/carmatrocity"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/carmenandoh/",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/Lyoness",
+                "name": "Github"
+            }
+        ],
+        "bio": "Open Source Strategy Lead for Go Programming Language and Ecosystem Build, Infrastructure Engineer, Travis CI Operations Engineer, Enquos Systems Administrator, State University of New York I like exploring Programming Languages History, Sociology, and Archeology.  So many things you can find in old code! ",
+        "shortBio": "Open Source Strategy Lead for Go Programming Language and Ecosystem Build",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FCarmen-Herna%CC%81ndez-Andoh-460x460.jpeg?alt=media&token=58fe19b1-88e3-4b73-98f6-d32bb25b4783",
+        "name": "Carmen Andoh"
+    },
+    "EcaterinaGrisaeva": {
+        "order": 0,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Istanbul",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "http://linkedin.com/in/ecaterina-grisaeva-33b010135"
+            }
+        ],
+        "bio": "After graduating my engineering school in France (INSA Lyon) in computer science, i have joined Accenture as part of Technical Architecture entity, where i had the opportunity to work mainly on performance testing, devops and agile. After enriching years in Accenture, I am currently working as Strategic Cloud Engineer in Paris for Google and one area where I am specialising is K8S. ",
+        "shortBio": "After graduating my engineering school in France (INSA Lyon) in computer science, i have joined Accenture as part of Technical Architecture entity, where i had the opportunity to work mainly on performance testing, devops and agile.",
+        "photoUrl": "",
+        "name": "Ecaterina Grisaeva",
+        "tags": [
+            "Cloud"
+        ],
+        "title": "Strategic Cloud Engineer at Google"
+    },
+    "KevinNelson": {
+        "shortBio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fkbnelson%20headshot%202018%201MB.jpg?alt=media&token=e88889af-8457-4109-849f-53dc4dc116cc",
+        "name": "Kevin Nelson",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "title": "Architect Advocate",
+        "order": 0,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Los Angeles",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/knelsoncloud/"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/knelsoncloud",
+                "name": "Twitter"
+            }
+        ],
+        "bio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners. He speaks frequently at developer-focused events around the world. Before joining the Cloud team, he was a lead Product Manager on Google Drive for two years. Prior to joining Google in 2014, Kevin was a successful serial entrepreneur with over 20 years of experience building and managing software and SAAS companies. In his free time, Kevin is an avid traveler, sailor, brewer and history buff who loves stargazing and studying the Age of Exploration. Mr. Nelson received his degree in Information and Computer Science from the University of California at Irvine."
+    },
+    "MarkStephens": {
+        "company": "IDRsolutions",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FIDRSmallwithbreak.png?alt=media&token=008224db-884e-4aa6-87ab-e4293463f643",
+        "country": "London",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/markee174",
+                "name": "Twitter"
+            },
+            {
+                "name": "Github",
+                "icon": "github",
+                "link": "https://github.com/markee174"
+            }
+        ],
+        "bio": "Mark Stephens has been a speaker at DevFest 13,14, 15, 17 and 18. He is a software developer and the founder of IDRsolutions, which develops a Java PDF library and a PDF to HTML5/SVG converter. This year he is doing 3 technical talks at Oracle CodeOne and also talking at NetBeans UK, and Dawscon 2020 in Montreal.\n\nMark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference where he can combine his passion for software and history.",
+        "shortBio": "Mark Stephens has been a speaker at DevFest 13,14, 15, 17 and 18.",
+        "photoUrl": "http://files.idrsolutions.com/mark.jpg",
+        "name": "Mark Stephens",
+        "tags": [
+            "Web Technologies"
+        ],
+        "title": "Founder/CEO of IDRsolutions",
+        "order": 0,
+        "featured": true
+    },
+    "MateuszHerych": {
+        "order": 1,
+        "featured": true,
+        "company": "IG",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEWbGiG2Avt9w/company-logo_200_200/0?e=2159024400&v=beta&t=a6ioQxzmzDSZeNzy9HBIySE9XeZtsKC9Jd0vP9ksxeM",
+        "country": "Krakow",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/mherych",
+                "name": "Twitter"
+            }
+        ],
+        "bio": "Mateusz works as a Head of Mobile Platforms at IG - originally coming from Krakow, Poland, currently living in London. He is a member of the Google Developer Expert program on Android, and a long-time GDG Krakow organizer. Father of twins, an avid fan of rail transportation and football.",
+        "shortBio": "Mateusz works as a Head of Mobile Platforms at IG - originally coming from Krakow, Poland, currently living in London.",
+        "photoUrl": "http://www.uamobile.org/sites/default/files/mateusz_herych_1.jpg",
+        "name": "Mateusz Herych",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "title": "Android GDE"
+    },
+    "MuhammedSalih": {
+        "shortBio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fsalih.png?alt=media&token=f5aa105e-d4a9-4aa7-b9a5-37f6f2fb2c9c",
+        "name": "Muhammed Salih Güler",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "title": "Android Engineer/Google Developer Expert for Flutter and Dart",
+        "order": 0,
+        "featured": true,
+        "company": "Onefootball GmbH",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Berlin",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/knelsoncloud/"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/salihgueler",
+                "name": "Twitter"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/salihgueler",
+                "name": "Github"
+            }
+        ],
+        "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He organises the Flutter Berlin meetup. He also likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences."
+    },
+    "MuratYener": {
+        "name": "Murat Yener",
+        "tags": [
+            "Android"
+        ],
+        "title": "Developer Advocate",
+        "order": 0,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "San Francisco",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/yenerm/"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/yenerm"
+            }
+        ],
+        "bio": "Murat Yener is a Developer Advocate for Android at Google. He is a code geek, open source committer, Java Champion and the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley.",
+        "shortBio": "Murat Yener is a Developer Advocate for Android at Google.",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1123009913679011840/lb-cCjyA_400x400.png"
+    },
+    "SashcaWolter": {
+        "name": "Sascha Wolter",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "title": "Principal Technology Evangelist Conversational AI & Senior User Experience Consultant Conversation Design",
+        "order": 0,
+        "featured": true,
+        "company": "Cognigy",
+        "companyLogoUrl": "https://cognigy.com/wp-content/uploads/2019/04/cognigy_logo.svg",
+        "country": "Düsseldorf",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/saschawolter/"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/saschawolter",
+                "name": "Twitter"
+            }
+        ],
+        "bio": "Sascha Wolter is a professional developer and user experience enthusiast. His true passion is to improve the human-computer interaction: He loves to build conversational and multimodal experiences with text (chatbots) and voice (aka Alexa). Sascha works as a consultant, trainer, lecturer, speaker, and author who focusses on understanding, innovation, and value. As such he is committed to the interests of all kinds of developers, users, and prosumers. When Sascha is not developing new ideas, he likes hiking and skiing in the mountains, enjoys good Italian coffee and loves to explore the world together with his kids in an odd way.\n\nAfter organizing internationally renowned events, he is now board member of the Usability & User Experience working group at the federal association BITKOM. Furthermore, he is Google Developer Expert for IoT/Assistant (GDE) and Microsoft Most Valuable Professional (MVP). Before he joined the Conversational AI Platform Company Cognigy as Senior UX Consultant and Principal Technology Evangelist, he worked as Senior Developer Evangelist at Deutsche Telekom (i.e. Smart Home) and Senior Technology Evangelist for Alexa at Amazon.",
+        "shortBio": "Sascha Wolter is a professional developer and user experience enthusiast.",
+        "photoUrl": "http://www.wolter.biz/blog/wp-content/uploads/2008/01/speaking.jpg"
+    },
+    "VanRiper": {
+        "bio": "Serial Community Organizer, Silicon Valley Geek, and Yoga Enthusiast. Spent 30 years as a developer in Silicon Valley. Joined Google in 2010 to run the Google Developer Groups program. I am currently a Go Community Advocate in the Open Source Programs Team at Google.",
+        "shortBio": "Serial Community Organizer, Silicon Valley Geek, and Yoga Enthusiast.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fvan-black-backdrop-web.jpg?alt=media&token=62e42631-6dd0-418e-873f-634cf59ee772",
+        "name": "Van Riper",
+        "tags": [
+            "Golang"
+        ],
+        "title": "Go Community Advocate",
+        "order": 0,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "country": "Santa Clara, California",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/vanriper"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/vanriper/",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "github",
+                "link": "https://vanriper.github.io",
+                "name": "Github"
+            }
+        ]
+    },
+    "ÖnderCeylan": {
+        "shortBio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s.",
+        "photoUrl": "https://i.ibb.co/VMc3m78/FDAC175-C-6-F43-4681-89-A3-0-DA9-A54004-FD.png",
+        "name": "Önder Ceylan",
+        "tags": [
+            "Web Technologies"
+        ],
+        "title": "JavaScript Tech Lead",
+        "order": 0,
+        "featured": true,
+        "company": "LINKIT / KLM",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlhmcRXe0MoA/company-logo_100_100/0?e=1580342400&v=beta&t=jrfF7LV1eJ5laUigXkvuSEdwEFh1i01Jb1C7NChYse4",
+        "country": "Amsterdam",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/onderceylan"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/onderceylan",
+                "name": "Github"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/onderceylan/",
+                "name": "Linkedin"
+            }
+        ],
+        "bio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and speaker. He's also interested in photography, capturing night photos specifically."
+    }
+}

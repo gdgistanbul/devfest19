@@ -1,0 +1,14 @@
+{
+    "0": {
+        "title": "Template Creator",
+        "order": 10
+    },
+    "1": {
+        "title": "General Partner",
+        "order": 0
+    },
+    "2": {
+        "title": "Silver Partners",
+        "order": 1
+    }
+}
