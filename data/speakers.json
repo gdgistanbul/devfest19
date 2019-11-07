@@ -612,7 +612,7 @@
         "title": "Student"
     },
     "NecartiSözer": {
-        "name": "Necarti Sözer",
+        "name": "Necati Sözer",
         "order": 0,
         "featured": true,
         "socials": [
@@ -626,9 +626,9 @@
             "Mobile Technologies"
         ],
         "company": "BiSU",
-        "companyLogoUrl": "",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/bisu_sprite.png?alt=media&token=6eb85ea8-4295-4f24-8b09-b3d80cd4da33",
         "photoUrl": "https://drive.google.com/open?id=1jgyG5rDlFllB4iQ1rmjiX_GRu9xJKogH",
-        "country": "Berlin",
+        "country": "Istanbul",
         "bio": "A passionate Android developer who builds applications with love",
         "shortBio": "A passionate Android developer who builds applications with love.",
         "title": "Android Developer"

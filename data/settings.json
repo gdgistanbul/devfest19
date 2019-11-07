@@ -21,20 +21,25 @@
     {
       "route": "home",
       "permalink": "/",
+      "link_type": "_self",
       "label": "Home"
-    },{
+    },
+    {
       "route": "speakers",
       "permalink": "/speakers",
+      "link_type": "_self",
       "label": "Speakers"
     },
     {
       "route": "team",
       "permalink": "https://www.gdgistanbul.com/team",
+      "link_type": "_blank",
       "label": "Team"
     },
     {
       "route": "blog",
       "permalink": "https://medium.com/gdg-istanbul",
+      "link_type": "_blank",
       "label": "Blog"
     }
   ],
