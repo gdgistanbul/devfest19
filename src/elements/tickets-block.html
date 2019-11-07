@@ -33,13 +33,15 @@
 
       .ticket-item[in-demand] {
         transform: scale(1.05);
-        box-shadow: var(--box-shadow-primary-color);
+        /* box-shadow: var(--box-shadow-primary-color); */
+        box-shadow: 0 3px 3px -2px rgba(0, 0, 0, 0.3), 0 3px 4px 0 rgba(0, 0, 0, 0.3), 0 1px 8px 0 rgba(0, 0, 0, 0.3);
         border-top: 2px solid var(--default-primary-color);
         z-index: 1;
       }
 
       .ticket-item[in-demand]:hover {
-        box-shadow: var(--box-shadow-primary-color-hover);
+        /* box-shadow: var(--box-shadow-primary-color-hover); */
+        box-shadow: 0 1px 3px -2px rgba(0, 0, 0, 0.4), 0 4px 5px 0 rgba(0, 0, 0, 0.4), 0 2px 9px 0 rgba(0, 0, 0, 0.4);
       }
 
       .ticket-item[sold-out] {
@@ -111,6 +113,10 @@
         font-size: 12px;
       }
 
+      .buy-button:hover {
+        color: white
+      }
+
       @media (min-width: 640px) {
         .tickets-placeholder {
           grid-template-columns: repeat(auto-fill, 200px);
@@ -176,7 +182,7 @@
               <div class="sold-out" block$="[[ticket.soldOut]]">
                 {$ ticketsBlock.soldOut $}
               </div>
-              <paper-button primary hidden$="[[ticket.soldOut]]" disabled$="[[!ticket.available]]">
+              <paper-button primary hidden$="[[ticket.soldOut]]" disabled$="[[!ticket.available]]" class="buy-button">
                 [[_getButtonText(ticket.available)]]
               </paper-button>
             </div>
