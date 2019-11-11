@@ -186,7 +186,8 @@
             "JunSakata"
         ],
         "title": "Seeking Observability: Getting Started with Service Mesh on GCP"
-    "1000": {
+    },
+  "1000": {
         "language": "Turkish",
         "description": "Keynote",
         "complexity": "Beginner",
