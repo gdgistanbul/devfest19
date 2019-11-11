@@ -424,6 +424,17 @@
         "speakers": [
             "Nilay_Yener"
         ],
-        "title": "Flutter! Nedir, Nasil, Neden? "
+        "title": "Flutter! Nedir, Nasil, Neden?"
+       },
+      "144": {
+        "language": "English",
+        "description": "Explore what’s new in the Play Console and provide feedback on ways that Play can better help you as a developer. We’ll step through the full development life-cycle, including: discovering where your users come from using statistics, prioritizing what to change in your app using benchmarks, understanding how to triage crashes and bugs using vitals, and evaluating releases and changes using experiments.",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "Ryan_Fanelli"
+        ],
+        "title": "Get The Most Out of The Play Console"
     }
 }
