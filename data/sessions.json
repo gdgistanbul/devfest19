@@ -2,7 +2,7 @@
     "101": {
         "language": "English",
         "description": "Progressive Delivery makes it easier to adopt Continuous Delivery, by deploying new versions to a subset of users and evaluating their correctness and performance before rolling them to the totality of the users, and rolled back if not matching some key metrics. Canary deployments is one of the techniques in Progressive Delivery, used in companies like Facebook to roll out new versions gradually. But good news! you don't need to be Facebook to take advantage of it.\n\nWe will demo how to create a fully automated Progressive Delivery pipeline with Canary deployments and rollbacks in Kubernetes using Jenkins X, an open source platform for cloud native CI/CD in Kubernetes, and Flagger, a project that uses Istio and Prometheus to automate Canary rollouts and rollbacks.",
-        "complexity": "GDG",
+        "complexity": "Intermediate",
         "tags": [
             "Cloud"
         ],
@@ -12,10 +12,10 @@
         "title": "Progressive Delivery: Continuous Delivery the Right Way"
     },
     "102": {
-        "title": "Flashy and smooth web animations",
+        "title": "Flashy and Smooth Web Animations",
         "language": "English, Turkish",
         "description": "To achieve flashy and smooth animations on web browsers, a developer needs to know first how a brain perceives animations and second how a browser works. This session is about the perception of speed, browser timeline, examples and tips for flashy animations.",
-        "complexity": "GDG",
+        "complexity": "Intermediate",
         "tags": [
             "Web Technologies"
         ],
@@ -26,7 +26,7 @@
     "103": {
         "language": "Turkish",
         "description": "This talk introduces \"Unit testing for Android Developers\". It demonstrates why Android developers write tests, and how they start. It will also discuss how developers structure their android applications.",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
             "Mobile Technologies"
         ],
@@ -38,14 +38,14 @@
     "104": {
         "language": "Turkish",
         "description": "findViewById() has been something Android developers tried to avoid to reduce boilerplate and we has different ways to access the views from the code side. I will give a brief introduction to how views are created from the xml, how findViewById() works and I will talk about the alternatives like ViewBindings, DataBindings, Kotlin Synthetics and how they work. I will also talk about Compose which is the future of the android UI. ",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
             "Mobile Technologies"
         ],
         "speakers": [
             "HadiTok"
         ],
-        "title": "Finding the view"
+        "title": "Finding the View"
     },
     "105": {
         "language": "English, Turkish",
@@ -69,12 +69,12 @@
         "speakers": [
             "M.YusufSarıgöz"
         ],
-        "title": "AutoML: AI that learns how to learn"
+        "title": "AutoML: AI That Learns How to Learn"
     },
     "107": {
         "language": "Turkish",
         "description": "Daha önce hep Kubernetes nasıl çalışır nasıl deployment yapılır onlar konuşuldu, ancak Microservice dünyasında Kubernetes tüm problemleri çözen sihirli bir tool değil.\n\nKod seviyesinde yapılan değişikliklerin infra tarafında her zaman bir karşılığı var\n\n- Boot Sürelerini Hızlandırmak \n    - Dependency Injection nasıl çalışır\n    - Runtime dependency injection ve problemleri\n    - Problemin çözümü için Compile Time Injection ve Framework ile beraberinde gelen çözümler\n    - Kubernetes tarafındaki scaling kazanımları\n- Network Optimizasyonu (GRPC)\n    - gRPC Nedir?\n    - HTTP2\n    - Kubernetes tarafında gRPC kullanırken dikkat edilmesi gerekenler ve kazanımları\n- Reactive backend uygulamaları ve Spring vs Micronaut karşılaştırması, ( bu kısım tüm sunumun kısa bir özeti olacak )",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
             "Cloud"
         ],
@@ -98,19 +98,19 @@
     "109": {
         "language": "English",
         "description": "Creating a cross platform app on Flutter is really efficient but can everything be tested and automated so you assure your high quality app stays high quality over time. And if everything is test does run on IOS and Android as expected.\n\nDuring this talk we will touch upon unit testing, widget testing, screenshot testing and end to end testing and setting it up in an automated way so you can be sure that the app you build is the quality you expect it be.",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
             "Mobile Technologies"
         ],
         "speakers": [
             "DylanDrost"
         ],
-        "title": "How to test on you Flutter app"
+        "title": "How to Test on Your Flutter App"
     },
     "110": {
         "language": "English",
         "description": "Android engineering has come a long way. Nowadays most applications are modularized to a certain degree - to combat high compile times, enforce separation of concerns or to group code based on certain scopes.\n\nIn this talk we will take a look at navigation in modularized apps. Navigation in Android can be done explicitly by passing the class variable or implicit by sending an Intent with a certain configuration. Since modularization is supposed to simplify our dependency graph, we will take a closer look at deep linking as a navigation pattern and compare different approaches like Intent filter, a custom deeplink processor or the Android Jetpack Navigation component.\n\nAfter this talk, you will be able to modularize your application with a clean, structured and scalable navigation.",
-        "complexity": "Beginner",
+        "complexity": "Intermediate",
         "tags": [
             "Mobile Technologies"
         ],
@@ -151,7 +151,7 @@
             "Mobile Technologies"
         ],
         "speakers": [
-            "NecartiSözer"
+            "KevinNelson"
         ],
         "title": "Building Custom Models in AutoML"
     },
@@ -164,7 +164,7 @@
         "speakers": [
             "SashcaWolter"
         ],
-        "title": "Conversational AI Demystified: Build your bot live on stage"
+        "title": "Conversational AI Demystified: Build Your Bot Live on Stage"
     },"115": {
         "language": "English",
         "description": "Soon",
