@@ -403,5 +403,16 @@
             "JunSakata"
         ],
         "title": "Seeking Observability: Getting Started with Service Mesh on GCP"
+      },
+      "142": {
+        "language": "Turkish",
+        "description": "Natural language processing is one of the most important technologies of nowadays. Understanding human languages and using at various AI projects ranging from IoT devices to conversational agents is a crucial task. On the other hand, advantages of deep learning helped researchers of NLP area to gain much better results on various general NLP tasks such as neural machine translation, classification, summarization and etc. This session is oriented towards understanding of basic NLP and deep learning approaches to NMT and developing NLP models with keras.",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "speakers": [
+            "Meysam_Asgarichenaghlou","Omid_Safarzadeh"
+        ],
+        "title": "DEEPNLP"
     }
 }
