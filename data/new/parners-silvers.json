@@ -1,0 +1,14 @@
+{
+    "000": {
+        "order": 0,
+        "url": "https://www.adesso.com.tr/",
+        "name": "Adesso",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/adesso%20high%20logo.jpg?alt=media&token=92bd0175-98fb-446c-a38a-914a0939c50a"
+    },
+    "001": {
+        "name": "Pixery",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/pixery%20logo.jpg?alt=media&token=ee4f6c70-d979-4d25-9707-cb4b769304ad",
+        "order": 0,
+        "url": "https://www.pixerylabs.com/"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "000": {
+        "url": "https://developers.google.com/",
+        "name": "Google",
+        "logoUrl": "../images/logos/google.svg",
+        "order": 0
+    }
+}

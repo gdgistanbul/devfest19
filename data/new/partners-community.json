@@ -1,0 +1,14 @@
+{
+    "000": {
+        "url": "https://www.gdgistanbul.com/",
+        "name": "GDG Istanbul",
+        "logoUrl": "https://miro.medium.com/max/5938/1*iK_drDjfX3p7IBCZqDOsvg.png",
+        "order": 0
+    },
+    "001": {
+        "url": "http://www.wtmistanbul.com/",
+        "name": "Wtm Istanbul",
+        "logoUrl": "https://etkinlik.webrazzi.com/uploads/organizers/original/588ca82d7af53-1866238077.png",
+        "order": 0
+    }
+}
