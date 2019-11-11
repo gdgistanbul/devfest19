@@ -1,0 +1,275 @@
+{
+    "tracks": [
+        {
+            "title": "Bosphorus(Uniq Hall)"
+        },
+        {
+            "title": "Galata Tower(Glass Room)"
+        },
+        {
+            "title": "Maiden's Tower"
+        },
+        {
+            "title": "Hagia Sophia"
+        }
+    ],
+    "dateReadable": "November 24",
+    "timeslots": [
+        {
+            "sessions": [
+                {
+                    "items": [
+                        132
+                    ]
+                }
+            ],
+            "endTime": "10:00",
+            "startTime": "09:00"
+        },
+        {
+            "startTime": "10:00",
+            "sessions": [
+                {
+                    "items": [
+                        136
+                    ]
+                }
+            ],
+            "endTime": "10:50"
+        },
+        {
+            "sessions": [
+                {
+                    "items": [
+                        127
+                    ]
+                },
+                {
+                    "items": [
+                        101
+                    ]
+                },
+                {
+                    "items": [
+                        114
+                    ]
+                },
+                {
+                    "items": [
+                        140
+                    ]
+                }
+            ],
+            "endTime": "11:40",
+            "startTime": "11:00"
+        },
+        {
+            "sessions": [
+                {
+                    "items": [
+                        115
+                    ]
+                },
+                {
+                    "items": [
+                        118
+                    ]
+                },
+                {
+                    "items": [
+                        105
+                    ]
+                },
+                {
+                    "items": [
+                        119
+                    ]
+                }
+            ],
+            "startTime": "11:50",
+            "endTime": "12:30"
+        },
+        {
+            "endTime": "13:20",
+            "startTime": "12:40",
+            "sessions": [
+                {
+                    "items": [
+                        113
+                    ]
+                },
+                {
+                    "items": [
+                        109
+                    ]
+                },
+                {
+                    "items": [
+                        112
+                    ]
+                },
+                {
+                    "items": [
+                        140
+                    ]
+                }
+            ]
+        },
+        {
+            "startTime": "13:20",
+            "sessions": [
+                {
+                    "items": [
+                        133
+                    ]
+                }
+            ],
+            "endTime": "14:30"
+        },
+        {
+            "startTime": "14:30",
+            "sessions": [
+                {
+                    "items": [
+                        116
+                    ]
+                },
+                {
+                    "items": [
+                        140
+                    ]
+                },
+                {
+                    "items": [
+                        104,
+                        106
+                    ]
+                },
+                {
+                    "items": [
+                        121
+                    ]
+                }
+            ],
+            "endTime": "15:10"
+        },
+        {
+            "sessions": [
+                {
+                    "items": [
+                        110
+                    ]
+                },
+                {
+                    "items": [
+                        103,
+                        120
+                    ]
+                },
+                {
+                    "items": [
+                        140
+                    ]
+                },
+                {
+                    "items": [
+                        140
+                    ]
+                }
+            ],
+            "endTime": "16:00",
+            "startTime": "15:20"
+        },
+        {
+            "sessions": [
+                {
+                    "items": [
+                        140
+                    ]
+                },
+                {
+                    "items": [
+                        102,
+                        122
+                    ]
+                },
+                {
+                    "items": [
+                        126,
+                        125
+                    ]
+                },
+                {
+                    "items": [
+                        124,
+                        140
+                    ]
+                }
+            ],
+            "endTime": "16:50",
+            "startTime": "16:10"
+        },
+        {
+            "endTime": "17:40",
+            "startTime": "17:00",
+            "sessions": [
+                {
+                    "items": [
+                        128,
+                        108
+                    ]
+                },
+                {
+                    "items": [
+                        107
+                    ]
+                },
+                {
+                    "items": [
+                        123,
+                        111
+                    ]
+                },
+                {
+                    "items": [
+                        140
+                    ]
+                }
+            ]
+        },
+        {
+            "sessions": [
+                {
+                    "items": [
+                        129
+                    ]
+                }
+            ],
+            "endTime": "19:00",
+            "startTime": "17:50"
+        },
+        {
+            "endTime": "19:30",
+            "startTime": "19:00",
+            "sessions": [
+                {
+                    "items": [
+                        140
+                    ]
+                }
+            ]
+        },
+        {
+            "sessions": [
+                {
+                    "items": [
+                        137
+                    ]
+                }
+            ],
+            "endTime": "22:30",
+            "startTime": "19:30"
+        }
+    ],
+    "date": "2019-11-24"
+}

@@ -2,12 +2,12 @@
   "blog": {
     "c4p": {
       "backgroundColor": "#3647a5",
-      "brief": "GDG DevFest Istanbul was announced, for the sixth year in a row, the conference will bring together 1100 developers, managers and...",
-      "content": "GDG DevFest Istanbul was announced, for the sixth year in a row, the conference will bring together 1100 developers, managers and entrepreneurs on November 4 to Istanbul. This year our team is doing big advancement in the content, we're building an extra stage to accommodate more visitors and provide fife fully independent tracks on Android, Firebase, Machine Learning, Google Cloud and Web topics. Our focus is the content. We’re looking for speakers like you, who are ready to rock the stage and deliver the best talk or workshop in the field.   <div layout horizontal center-justified> <a href=\"http://gdg.ist/dfist18-cfp\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div> ## Why is it cool to speak at the DevFest? DevFest Istanbul is not an ordinary tech conference, besides selecting only the best speakers, we help them to succeed in delivering an exceptional quality talk on the stage. Here are few perks that all our speakers get: - **Expences covered**. Hotel for 2 nights, travel costs and entrance to exclusive dinner after DevFest are covered for all speakers. - **Professional video recording**.We work with experienced video production companies to create session recording of the best quality. Stage, screen, audio, all is recorded separately and combined later. Check the session videos from the last year. - **Exposure**. By being a speaker, you are proving your level of expertise to a potential business partners or employers. Your talk will be promoted in our online resources and recording published in YouTube channel with more than 35k views. - **Unique networking**. Being a speaker means you’ll have the unique chance to network with other speakers - the best experts in the industry. -- **Coaching**. We're in the same boat, after being selected as a speaker our program committee will help you to deliver the best talk possible. We provide information about the audience, presentation templates, feedback on the slides, all to help you to prepare. What are we looking for? We're looking for **experience-based talks**, the information that can not be found in the documentation or easily googled. We're looking for your stories, your struggles, research results and experiences with the frontier tools or technologies. This year we accept submissions in two formats: - 40 minutes sessions. - 2(or 3) hours workshops. ### Talks that will not pass initial review - Talks about a specific tool/library/project explaining how it works or how to use it. - Talks whose focus is pitching a company or project. It’s cool that you mention your company during the presentation, but it shouldn’t be the focus of the talk. - Recruitment talks to attract talent. We strongly recommend you check out speaking.io website from Zach Holman. It includes good tips and guidelines for speakers. ## Timeline **Call for Papers submission deadline is October 14, 2018.** Email organizers at devfest@gdgistanbul.com  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
-      "image": "/images/posts/c4p.jpg",
-      "published": "2019-09-10",
       "source": "/data/posts/2017-02-12-c4p.md",
-      "title": "We're looking for speakers"
+      "image": "/images/posts/c4p.jpg",
+      "content": "GDG DevFest Istanbul was announced, for the sixth year in a row, the conference will bring together 1100 developers, managers and entrepreneurs on November 4 to Istanbul. This year our team is doing big advancement in the content, we're building an extra stage to accommodate more visitors and provide fife fully independent tracks on Android, Firebase, Machine Learning, Google Cloud and Web topics. Our focus is the content. We’re looking for speakers like you, who are ready to rock the stage and deliver the best talk or workshop in the field.   <div layout horizontal center-justified> <a href=\"http://gdg.ist/dfist18-cfp\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div> ## Why is it cool to speak at the DevFest? DevFest Istanbul is not an ordinary tech conference, besides selecting only the best speakers, we help them to succeed in delivering an exceptional quality talk on the stage. Here are few perks that all our speakers get: - **Expences covered**. Hotel for 2 nights, travel costs and entrance to exclusive dinner after DevFest are covered for all speakers. - **Professional video recording**.We work with experienced video production companies to create session recording of the best quality. Stage, screen, audio, all is recorded separately and combined later. Check the session videos from the last year. - **Exposure**. By being a speaker, you are proving your level of expertise to a potential business partners or employers. Your talk will be promoted in our online resources and recording published in YouTube channel with more than 35k views. - **Unique networking**. Being a speaker means you’ll have the unique chance to network with other speakers - the best experts in the industry. -- **Coaching**. We're in the same boat, after being selected as a speaker our program committee will help you to deliver the best talk possible. We provide information about the audience, presentation templates, feedback on the slides, all to help you to prepare. What are we looking for? We're looking for **experience-based talks**, the information that can not be found in the documentation or easily googled. We're looking for your stories, your struggles, research results and experiences with the frontier tools or technologies. This year we accept submissions in two formats: - 40 minutes sessions. - 2(or 3) hours workshops. ### Talks that will not pass initial review - Talks about a specific tool/library/project explaining how it works or how to use it. - Talks whose focus is pitching a company or project. It’s cool that you mention your company during the presentation, but it shouldn’t be the focus of the talk. - Recruitment talks to attract talent. We strongly recommend you check out speaking.io website from Zach Holman. It includes good tips and guidelines for speakers. ## Timeline **Call for Papers submission deadline is October 14, 2018.** Email organizers at devfest@gdgistanbul.com  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
+      "title": "We're looking for speakers",
+      "brief": "GDG DevFest Istanbul was announced, for the sixth year in a row, the conference will bring together 1100 developers, managers and...",
+      "published": "2019-09-10"
     }
   },
   "gallery": [
@@ -34,40 +34,51 @@
     {
       "logos": [
         {
-          "order": 9,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://github.com/gdg-x/hoverboard"
-        }
-      ],
-      "order": 0,
-      "title": "Template Creator"
-    },
-    {
-      "logos": [
-        {
           "order": 0,
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
+          "url": "https://developers.google.com/"
         }
       ],
       "order": 0,
       "title": "General Partner"
+    },
+    {
+      "logos": [
+        {
+          "name": "Adesso",
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/adesso%20high%20logo.jpg?alt=media&token=92bd0175-98fb-446c-a38a-914a0939c50a",
+          "order": 0,
+          "url": "https://www.adesso.com.tr/"
+        },
+        {
+          "name": "Pixery",
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/pixery%20logo.jpg?alt=media&token=ee4f6c70-d979-4d25-9707-cb4b769304ad",
+          "order": 0,
+          "url": "https://www.pixerylabs.com/"
+        }
+      ],
+      "order": 2,
+      "title": "Silver Partners"
+    },
+    {
+      "logos": [
+        {
+          "name": "JetBrains",
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/jetbrains.png?alt=media&token=adda7af0-7553-4ec9-8c4f-467116e14d31",
+          "order": 0,
+          "url": "https://www.jetbrains.com/"
+        }
+      ],
+      "order": 2,
+      "title": "Bronze Partners"
     }
   ],
   "schedule": {
     "2016-09-09": {
-      "dateReadable": "September 9",
+      "dateReadable": "November 24",
       "timeslots": [
         {
-          "endTime": "10:00",
           "sessions": [
             {
               "items": [
@@ -75,10 +86,10 @@
               ]
             }
           ],
-          "startTime": "09:00"
+          "startTime": "09:00",
+          "endTime": "10:00"
         },
         {
-          "endTime": "10:15",
           "sessions": [
             {
               "items": [
@@ -86,93 +97,21 @@
               ]
             }
           ],
-          "startTime": "10:00"
+          "startTime": "10:00",
+          "endTime": "10:50"
         },
         {
-          "endTime": "11:00",
           "sessions": [
             {
               "items": [
-                139
+                140
               ]
             }
           ],
-          "startTime": "10:15"
+          "startTime": "11:00",
+          "endTime": "11:40"
         },
         {
-          "endTime": "11:40",
-          "sessions": [
-            {
-              "items": [
-                103,
-                112
-              ]
-            },
-            {
-              "items": [
-                120
-              ]
-            },
-            {
-              "extend": 3,
-              "items": [
-                109
-              ]
-            }
-          ],
-          "startTime": "11:00"
-        },
-        {
-          "endTime": "12:30",
-          "sessions": [
-            {
-              "items": [
-                129
-              ]
-            },
-            {
-              "items": [
-                116
-              ]
-            }
-          ],
-          "startTime": "11:50"
-        },
-        {
-          "endTime": "14:00",
-          "sessions": [
-            {
-              "items": [
-                133
-              ]
-            }
-          ],
-          "startTime": "12:30"
-        },
-        {
-          "endTime": "14:40",
-          "sessions": [
-            {
-              "items": [
-                101
-              ]
-            },
-            {
-              "items": [
-                118
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                107
-              ]
-            }
-          ],
-          "startTime": "14:00"
-        },
-        {
-          "endTime": "15:30",
           "sessions": [
             {
               "items": [
@@ -181,79 +120,228 @@
             },
             {
               "items": [
-                126
-              ]
-            }
-          ],
-          "startTime": "14:50"
-        },
-        {
-          "endTime": "16:00",
-          "sessions": [
-            {
-              "items": [
-                134
-              ]
-            }
-          ],
-          "startTime": "15:30"
-        },
-        {
-          "endTime": "16:40",
-          "sessions": [
-            {
-              "items": [
-                105
+                140
               ]
             },
             {
               "items": [
-                127
+                140
               ]
             },
             {
-              "extend": 3,
               "items": [
-                119
+                140
               ]
             }
           ],
-          "startTime": "16:00"
+          "startTime": "11:50",
+          "endTime": "12:30"
         },
         {
-          "endTime": "17:30",
           "sessions": [
             {
               "items": [
-                112
+                140
               ]
             },
             {
               "items": [
-                111
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
               ]
             }
           ],
-          "startTime": "16:50"
+          "startTime": "11:50",
+          "endTime": "12:30"
         },
         {
-          "endTime": "18:20",
           "sessions": [
             {
               "items": [
-                106
+                140
+              ]
+            }
+          ],
+          "startTime": "12:40",
+          "endTime": "13:20"
+        },
+        {
+          "sessions": [
+            {
+              "items": [
+                140
               ]
             },
             {
               "items": [
-                125
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
               ]
             }
           ],
-          "startTime": "17:40"
+          "startTime": "13:20",
+          "endTime": "14:30"
         },
         {
-          "endTime": "22:30",
+          "sessions": [
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            }
+          ],
+          "startTime": "14:30",
+          "endTime": "15:10"
+        },
+        {
+          "sessions": [
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            }
+          ],
+          "startTime": "15:20",
+          "endTime": "16:00"
+        },
+        {
+          "sessions": [
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            }
+          ],
+          "startTime": "16:10",
+          "endTime": "16:50"
+        },
+        {
+          "sessions": [
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            }
+          ],
+          "startTime": "17:00",
+          "endTime": "17:40"
+        },
+        {
+          "sessions": [
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            },
+            {
+              "items": [
+                140
+              ]
+            }
+          ],
+          "startTime": "17:50",
+          "endTime": "19:00"
+        },
+        {
+          "sessions": [
+            {
+              "items": [
+                140
+              ]
+            }
+          ],
+          "startTime": "19:00",
+          "endTime": "19:30"
+        },
+        {
           "sessions": [
             {
               "items": [
@@ -261,610 +349,27 @@
               ]
             }
           ],
-          "startTime": "18:30"
+          "startTime": "19:30",
+          "endTime": "22:30"
         }
       ],
       "tracks": [
         {
-          "title": "Expo hall"
+          "title": "Bosphorus(Uniq Hall)"
         },
         {
-          "title": "Conference hall"
+          "title": "Galata Tower(Glass Room)"
         },
         {
-          "title": "Workshops hall"
-        }
-      ]
-    },
-    "2016-09-10": {
-      "dateReadable": "September 10",
-      "timeslots": [
-        {
-          "endTime": "10:10",
-          "sessions": [
-            {
-              "items": [
-                135
-              ]
-            }
-          ],
-          "startTime": "09:30"
+          "title": "Maiden's Tower"
         },
         {
-          "endTime": "10:50",
-          "sessions": [
-            {
-              "items": [
-                114
-              ]
-            },
-            {
-              "items": [
-                117
-              ]
-            },
-            {
-              "items": [
-                121
-              ]
-            }
-          ],
-          "startTime": "10:10"
-        },
-        {
-          "endTime": "11:40",
-          "sessions": [
-            {
-              "items": [
-                122
-              ]
-            },
-            {
-              "items": [
-                113
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                121
-              ]
-            }
-          ],
-          "startTime": "11:00"
-        },
-        {
-          "endTime": "12:30",
-          "sessions": [
-            {
-              "items": [
-                104
-              ]
-            },
-            {
-              "items": [
-                124
-              ]
-            }
-          ],
-          "startTime": "11:50"
-        },
-        {
-          "endTime": "14:00",
-          "sessions": [
-            {
-              "items": [
-                133
-              ]
-            }
-          ],
-          "startTime": "12:30"
-        },
-        {
-          "endTime": "14:40",
-          "sessions": [
-            {
-              "items": [
-                108
-              ]
-            },
-            {
-              "items": [
-                128
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                102
-              ]
-            }
-          ],
-          "startTime": "14:00"
-        },
-        {
-          "endTime": "15:30",
-          "sessions": [
-            {
-              "items": [
-                110
-              ]
-            },
-            {
-              "items": [
-                123
-              ]
-            }
-          ],
-          "startTime": "14:50"
-        },
-        {
-          "endTime": "16:00",
-          "sessions": [
-            {
-              "items": [
-                134
-              ]
-            }
-          ],
-          "startTime": "15:30"
-        },
-        {
-          "endTime": "16:40",
-          "sessions": [
-            {
-              "items": [
-                131
-              ]
-            },
-            {
-              "items": [
-                140
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                130
-              ]
-            }
-          ],
-          "startTime": "16:00"
-        },
-        {
-          "endTime": "17:30",
-          "sessions": [
-            {
-              "items": [
-                115
-              ]
-            },
-            {
-              "items": [
-                140
-              ]
-            }
-          ],
-          "startTime": "16:50"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Expo hall"
-        },
-        {
-          "title": "Conference hall"
-        },
-        {
-          "title": "Workshops hall"
+          "title": "Hagia Sophia"
         }
       ]
     }
   },
   "sessions": {
-    "101": {
-      "complexity": "Beginner",
-      "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers": [
-        "mete_atamel",
-        "adrian_kajda"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Windows and .NET on Google Cloud Platform "
-    },
-    "102": {
-      "complexity": "Beginner",
-      "description": "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-      "language": "English",
-      "speakers": [
-        "mete_atamel"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Hands-on gRPC experience building your own multiplayer game client"
-    },
-    "103": {
-      "complexity": "Intermediate",
-      "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers": [
-        "yonatan_levin"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Knock knock! Who's there? Doze."
-    },
-    "104": {
-      "complexity": "Beginner",
-      "description": "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers": [
-        "sascha_wolter"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "The Physical Web: Context is King!",
-      "videoId": "fLfQNp75kbc"
-    },
-    "105": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers": [
-        "rustem_arzymbetov"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Intro to TensorFlow",
-      "videoId": "e3cuSz1hEPs"
-    },
-    "106": {
-      "complexity": "Beginner",
-      "description": "Fuelio. Success story (I'll write more info later)",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers": [
-        "adrian_kajda"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Fuelio. Success story",
-      "videoId": "qK7ysoohsaM"
-    },
-    "107": {
-      "complexity": "Beginner",
-      "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
-      "extend": 2,
-      "language": "English",
-      "speakers": [
-        "gerard_sans"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Introduction to Progressive Web Apps in Angular 2"
-    },
-    "108": {
-      "complexity": "Intermediate",
-      "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
-      "speakers": [
-        "gerard_sans"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "New Data Architecture in Angular 2",
-      "videoId": "pgmLkwD-mqM"
-    },
-    "109": {
-      "complexity": "Beginner",
-      "description": "TBD",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
-      "speakers": [
-        "jozef_vodicka"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "How much money Firebase can save you"
-    },
-    "110": {
-      "complexity": "Intermediate",
-      "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-      "speakers": [
-        "mateusz_herych"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "The ultimate guide to MVP pattern on Android"
-    },
-    "111": {
-      "complexity": "Intermediate",
-      "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers": [
-        "david_mayboroda"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Building modular architecture apps with Dagger 2"
-    },
-    "112": {
-      "complexity": "Intermediate",
-      "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-      "language": "English",
-      "speakers": [
-        "konrad_dzwinel"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Building web apps in 2016"
-    },
-    "113": {
-      "complexity": "Intermediate",
-      "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers": [
-        "jean-baptiste_clion"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Microservices in Google App Engine"
-    },
-    "114": {
-      "complexity": "Intermediate",
-      "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
-      "language": "English",
-      "speakers": [
-        12
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "I’ve been doing some syncing…"
-    },
-    "115": {
-      "complexity": "Beginner",
-      "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers": [
-        "paul_lammertsma"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android tool-chain and run-time improvements in N",
-      "videoId": "WqULb6bdwwg"
-    },
-    "116": {
-      "complexity": "Beginner",
-      "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-      "language": "English",
-      "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-      "speakers": [
-        "aleksander_piotrowski"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "On Polymer and smileys... or Polysmileys"
-    },
-    "117": {
-      "complexity": "Beginner",
-      "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-      "speakers": [
-        "carmen_popovicu"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Building data pipelines: from simple to more advanced - hands-on experience"
-    },
-    "118": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-      "speakers": [
-        "sergii_khomenko"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Kotlin + Android"
-    },
-    "119": {
-      "complexity": "Beginner",
-      "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-      "speakers": [
-        "dmytro_danylyk"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Hands-on with UI testing for Android developers"
-    },
-    "120": {
-      "complexity": "Beginner",
-      "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers": [
-        "jana_moudra"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Progressive web apps - prepare your web for 2017"
-    },
-    "121": {
-      "complexity": "Intermediate",
-      "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-      "language": "English",
-      "speakers": [
-        "jana_moudra"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Offline-first progressive web apps"
-    },
-    "122": {
-      "complexity": "Intermediate",
-      "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers": [
-        "jakub_škvára"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId": "b9NgjqM6dvk"
-    },
-    "123": {
-      "complexity": "Beginner",
-      "description": "TBD",
-      "language": "English",
-      "speakers": [
-        "david_vávra"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "TBD"
-    },
-    "124": {
-      "complexity": "Intermediate",
-      "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-      "language": "English",
-      "speakers": [
-        "valentyn_shybanov"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Continues Integration in Android",
-      "videoId": "MmGDQkgknfY"
-    },
-    "125": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "language": "English",
-      "speakers": [
-        "sergiy_mokienko"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Kubernetes in a real world"
-    },
-    "126": {
-      "complexity": "Intermediate",
-      "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers": [
-        "ihor_dvoretskyi"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId": "We04nyIIsA0"
-    },
-    "127": {
-      "complexity": "Intermediate",
-      "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language": "Ukrainian",
-      "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers": [
-        "michael_pustovit"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "ExoPlayer: Media playback without pain (almost...)"
-    },
-    "128": {
-      "complexity": "Beginner",
-      "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-      "language": "English",
-      "speakers": [
-        "anton__minashkin"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android Wear 2.0: Great Changes Upcoming this Fall"
-    },
-    "129": {
-      "complexity": "Intermediate",
-      "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers": [
-        "constantine_mars"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Accessibility on Android"
-    },
-    "130": {
-      "complexity": "Intermediate",
-      "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language": "English",
-      "speakers": [
-        "constantine_mars"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Designing an Android Wear Application"
-    },
-    "131": {
-      "complexity": "Intermediate",
-      "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers": [
-        "resul_caner__yildirim"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Deal with it: Android DataBinding explained"
-    },
     "132": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
@@ -919,1116 +424,93 @@
     }
   },
   "speakers": {
-    "GDGIstanbul": {
-      "bio": "TBD",
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Istanbul",
+    "konrad_dzwinel": {
+      "badges": [
+        {
+          "description": "Web Technologies Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/konrad-dzwinel.html",
+          "name": "gde"
+        },
+        {
+          "description": "Google Developers Group Krakow",
+          "link": " https://developers.google.com/groups/directory/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Konrad is a front-end developer at Brainly, Google Developer Expert for Web Technologies and co-organizer of Google Developers Group in Krakow. Over the years he worked for various startups, consultancies and software houses building websites, hybrid apps and internal tools. After work, he develops Chrome extensions, experiments with various front-end technologies, gives presentations and runs workshops.",
+      "company": "Brainly",
+      "companyLogo": "/images/logos/gdg-lviv.svg",
+      "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country": "Krakow, Poland",
       "featured": true,
-      "name": "GDG Istanbul Soon",
-      "title": "Community",
-      "photoUrl": "https://gdgistanbul.com/img/gdglogo.19fe90be.png",
-      "shortBio": "TBD",
+      "name": "Konrad Dzwinel",
+      "photo": "/images/people/konrad_dzwinel.jpg",
+      "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/konrad_dzwinel.jpg",
+      "shortBio": "Fighting for 60FPS on Web. GDE on Web Technologies. Co-organizer of GDG Krakow.",
       "socials": [
         {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/gdgistanbul/",
-          "name": "Linkedin"
+          "icon": "github",
+          "link": "https://github.com/kdzwinel",
+          "name": "GitHub"
         },
         {
           "icon": "twitter",
-          "link": "https://twitter.com/gdgistanbul",
+          "link": "https://twitter.com/kdzwinel",
           "name": "Twitter"
         }
       ],
-      "tags": [
-        "Machine Learning",
-        "AI",
-        "Android",
-        "Assistant",
-        "Flutter",
-        "Firebase",
-        "Generic Software Engineering",
-        "Google Technologies",
-        "Web Technologies",
-        "Web"
-      ]
+      "order": 14,
+      "title": "Front-End Engineer"
     }
   },
-  "team": [],
+  "team": [
+  ],
   "tickets": [
     {
-      "available": true,
-      "currency": "₺",
-      "ends": "Oct 1",
-      "info": "Requires valid student/lecturer ID",
+      "order": "0",
+      "soldOut": false,
+      "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en",
       "name": "EDU",
+      "info": "Requires valid student/lecturer ID",
+      "starts": "Sep 1",
+      "currency": "₺",
       "price": 50,
-      "soldOut": false,
-      "starts": "Sep 1",
-      "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en"
+      "available": true,
+      "ends": "Nov 23"
     },
     {
       "available": true,
-      "currency": "₺",
-      "ends": "Oct 20",
-      "inDemand": true,
-      "info": "Or first 500 tickets",
+      "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en",
       "name": "Early Bird",
-      "price": 100,
-      "regular": true,
-      "soldOut": false,
+      "currency": "₺",
       "starts": "Sep 1",
-      "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en"
+      "inDemand": true,
+      "ends": "Oct 18",
+      "order": "1",
+      "soldOut": true,
+      "info": "Or first 500 tickets",
+      "price": 100,
+      "regular": true
     },
     {
-      "available": true,
-      "currency": "₺",
-      "ends": "Nov 23",
-      "inDemand": false,
       "info": "Always on",
-      "name": "Regular",
-      "price": 150,
-      "primary": true,
+      "price": 120,
       "regular": true,
-      "soldOut": false,
+      "available": true,
+      "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en",
+      "name": "Regular",
+      "currency": "₺",
       "starts": "Sep 1",
-      "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en"
+      "inDemand": false,
+      "ends": "Nov 23",
+      "soldOut": false,
+      "order": "2",
+      "primary": true
     }
   ],
   "triggers": {
     "images": false
   },
-  "videos": [
-    
-  ],
-  "previousSpeakers": {
-    "AdilZehir": {
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/adil-zehir-5b612b33/",
-          "name": "Linkedin"
-        },
-        {
-          "name": "Twitter",
-          "icon": "twitter",
-          "link": "https://twitter.com/adilzehir"
-        }
-      ],
-      "bio": "I am the founder of BlindID app which allows users to make anonymous, live, voice calls whenever they need to talk with a real person.",
-      "shortBio": "I am the founder of BlindID app which allows users to make anonymous, live, voice calls whenever they need to talk with a real person.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/WhatsApp%20Image%202018-10-19%20at%204.57.41%20PM%20(1).jpeg?alt=media&token=9c392a47-7bf5-4f45-a814-523b5eab068f",
-      "name": "Adil Zehir",
-      "tags": [
-        "Panel"
-      ],
-      "title": "Founder",
-      "order": 6,
-      "featured": false,
-      "company": "Blindid",
-      "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqXQ3wyDOBeCd9YJbeOf6cTfzERBa5ze-kZ5sRulk-WQ5-dJoyw"
-    },
-    "AhmetCanGüven": {
-      "country": "Istanbul,Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/acanguven/",
-          "name": "Linkedin"
-        },
-        {
-          "name": "Github",
-          "icon": "github",
-          "link": "https://github.com/Acanguven"
-        }
-      ],
-      "bio": "Ahmet Can is a front-end engineer at Trendyol. He is passionate about making the web faster! He is mainly focused on javascript and front-end technologies. He loves to contribute open source projects and currently working on a framework which implements the micro-frontends architecture using NodeJs.",
-      "shortBio": "Ahmet Can is a front-end engineer at Trendyol. He is passionate about making the web faster!",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/987174.jfif?alt=media&token=398de3c8-a0ff-4344-b0a5-d72df3061355",
-      "name": "Ahmet Can Güven",
-      "tags": [
-        "Web Technologies"
-      ],
-      "title": "Software Developer",
-      "order": 8,
-      "featured": true,
-      "company": "Trendyol",
-      "companyLogoUrl": "https://www.trendyol.com/content/images/trendyol-online-white.png"
-    },
-    "AliCanBatur": {
-      "company": "sahibinden.com",
-      "companyLogoUrl": "http://www.kurumsalhaberler.com/images/kuruluslogo/509/arsiv/sahibinden_logo.jpg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Twitter",
-          "icon": "twitter",
-          "link": "https://twitter.com/alicanbatur"
-        }
-      ],
-      "bio": "Experienced iOS Developer with a demonstrated history of working in the internet industry. Skilled in iOS Development, Swift, Objective-C, and Mobile Applications. Strong engineering professional with a Computer Engineer focused in Computer Science",
-      "shortBio": "Experienced iOS Developer with a demonstrated history of working in the internet industry.",
-      "photoUrl": "https://avatars1.githubusercontent.com/u/1905698?s=460&v=4",
-      "name": "Ali Can Batur",
-      "tags": [
-        "Google Technologies"
-      ],
-      "title": "Sr. iOS Dev",
-      "order": 14,
-      "featured": true
-    },
-    "BarisYesugey": {
-      "shortBio": "Üniversite eğitimini İngiltere'de (Bilgisayar Bilimleri) tamamlayan Barış, Facebook ve Paypal'da satış ve çözüm mühendisi olarak geliştiricilerin platform teknolojilerini uygulama ve servislerine entegre etmesinde destek oldu",
-      "photoUrl": "https://scontent.flux1-1.fna.fbcdn.net/v/t1.0-9/27751548_10215018720880004_4652419518390012460_n.jpg?_nc_cat=0&oh=2ee5b71e16e87ec41124ed09406e8c27&oe=5C6114C0",
-      "name": "Baris Yesugey",
-      "tags": [
-        "Google Technologies"
-      ],
-      "title": "Developer Relations Region Lead",
-      "order": 14,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/barisyesugey/"
-        }
-      ],
-      "bio": "Üniversite eğitimini İngiltere'de (Bilgisayar Bilimleri) tamamlayan Barış, Facebook ve Paypal'da satış ve çözüm mühendisi olarak geliştiricilerin platform teknolojilerini uygulama ve servislerine entegre etmesinde destek oldu. Şu anda, Google Ekosistem takiminda, Google Gelistirici Platform ürünlerini Türkiye, Kafkaslar ve Asya bölgeside yasayan geliştiricilere tanitmaktadir. "
-    },
-    "BethanPalmer": {
-      "company": "IDRsolutions",
-      "companyLogoUrl": "https://www.idrsolutions.com/wp-content/uploads/2017/12/IDRSmallwithbreak.png",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/bethan.jpg?alt=media&token=9eba9937-48c9-4d07-bf83-b11194977c2e",
-      "name": "Bethan Palmer",
-      "country": "United Kingdom",
-      "bio": "Bethan Palmer is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters. Bethan has spoken twice at Oracle Code One. She is really looking forward to her very first DevFest with the chance to share her enthusiasm for NetBeans, meet lots of new people, see the sites and say hello to the cats in Istanbul.",
-      "tags": [
-        "Java"
-      ],
-      "title": "Software Developer",
-      "order": 11,
-      "featured": true,
-      "shortBio": "Bethan Palmer is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters."
-    },
-    "BugraOral": {
-      "shortBio": "Software Engineer by day, Machine Learning Researcher by night. Buğra has been developing Android applications and SDK’s for over 5+ in various domains and countries. He is passionate about Machine Learning and has been researching ML in Boğaziçi University since 2015. Currently, he is managing a team of Android devs, and leading AI/ML transformation at Commencis",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Commencis_Bugra_Oral.jpg?alt=media&token=a12f1e72-d766-4655-b032-e417b8ec387d",
-      "name": "Buğra Oral",
-      "tags": [
-        "Machine Learning & AI"
-      ],
-      "title": "Software Engineer",
-      "order": 5,
-      "featured": true,
-      "company": "Commencis",
-      "companyLogoUrl": "https://www.commencis.com/file/2018/03/commencis-logo-light-web.svg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Twitter",
-          "icon": "linkedin",
-          "link": "https://tr.linkedin.com/in/bu%C4%9Fra-oral-9409862b"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/bugra_oral",
-          "name": "Twitter"
-        }
-      ],
-      "bio": "Software Engineer by day, Machine Learning Researcher by night. Buğra has been developing Android applications and SDK’s for over 5+ in various domains and countries. He is passionate about Machine Learning and has been researching ML in Boğaziçi University since 2015. Currently, he is managing a team of Android devs, and leading AI/ML transformation at Commencis"
-    },
-    "CemalKayacan": {
-      "shortBio": "Cloud Customer Engineer at Google",
-      "photoUrl": "https://media.licdn.com/dms/image/C4E03AQHN-WFBeuYz0Q/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=870UwqkHXEtVPjupLzC8OCPD1wzVT954baGBvTOIHbk",
-      "name": "Cemal Kayacan ",
-      "tags": [
-        "Machine Learning & AI"
-      ],
-      "title": "Cloud Customer Engineer at Google",
-      "order": 5,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://tr.linkedin.com/in/cemal-kayacan-2027675/",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "SpecialtiesExperienced and accomplished technical sales professional with +10 years of multinational workplace experience who is continuously developing & leveraging skills on cloud, software defined data center, network transformation (SDN, NFV) data analytics and workplace transformation."
-    },
-    "DenizTav": {
-      "shortBio": "1988 doğumlu olan Deniz Tav, ODTÜ Bilgisayar Mühendisliğinden 2011 yılında mezun oldu.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/DenizTav.png?alt=media&token=95f7f3d4-8239-440f-ba38-55b4c98a22b1",
-      "name": "Deniz Tav",
-      "tags": [
-        "Google Technologies"
-      ],
-      "title": "Mobile Team Lead",
-      "order": 14,
-      "featured": false,
-      "company": "Getir",
-      "companyLogoUrl": "https://cdn.yeniakit.com.tr/images/news/625/istanbullu-3-milyon-kez-getir-dedi-h1517293289-9f50ff.jpg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "www.linkedin.com/in/deniztav/",
-          "name": "Twitter"
-        }
-      ],
-      "bio": "1988 doğumlu olan Deniz Tav, ODTÜ Bilgisayar Mühendisliğinden 2011 yılında mezun oldu. Öğrenciliği sırasında ODTÜ Teknokentte çalışarak yazılım dünyasına adım attı. Mezuniyetini takiben Türkiye’nin en büyük mobil yazılım şirketinde ulusal/uluslararası bankacılık ve eCommerce uygulamaları üzerine çalıştı. Mobil odaklı çalışmalarına devam eden Tav, 2014 Ekim’de İyi Sahne Bilgi Teknolojileri A.Ş.’de kurucu ortak olarak katıldı. iyisahne.com’un satışının ardından Getir Ekibine katılan Deniz Tav, Mobil Takım Lideri olarak çalışmaktadır."
-    },
-    "DylanDrost": {
-      "order": 9,
-      "featured": true,
-      "company": "SnappCar",
-      "companyLogoUrl": "https://www.snappcar.nl/assets/snappcar-logo.svg",
-      "country": "Netherlands",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/dylandrost",
-          "name": "Linkedin"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/aegis123",
-          "name": "Github"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/aegis321",
-          "name": "Twitter"
-        },
-        {
-          "icon": "website",
-          "link": "https://plus.google.com/u/1/+DylanDrost",
-          "name": "Website"
-        }
-      ],
-      "bio": "I’m an Android developer working at SnappCar working on a platform to share and rent cars, like AirBnb but for cars. Occasional web developer/server admin for Bettyskitchen a food blog which is run by my wife with over a 1000 post and around 90/100k visitors per month.",
-      "shortBio": "Dylan is Android developer at SnappCar.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/dylandrost.jpeg?alt=media&token=628ce9f2-6160-4e52-bed1-cdedcd137f8c",
-      "name": "Dylan Drost",
-      "tags": [
-        "Flutter"
-      ],
-      "title": "Android Developer"
-    },
-    "EmilBayazitov": {
-      "shortBio": "Extensive product marketing experience at Google (Google Ads, Google Play, Google+), business development in Payments (Google Pay).  ",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/emil.jpg?alt=media&token=8117d91d-6fa9-4c7b-af10-22a31f2f60c9",
-      "name": "Emil Bayazitov",
-      "tags": [
-        "Payments"
-      ],
-      "title": "Strategic Partnerships, Payments",
-      "order": 4,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "London, United Kingdom",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/ebayazitov/",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "Extensive product marketing experience at Google (Google Ads, Google Play, Google+), business development in Payments (Google Pay). Currently doing Strategic Partnerships across EMEA for biggest online, offline merchants and transit. "
-    },
-    "EnesBurakDündar": {
-      "shortBio": "Ar-Ge Mühendisi – Yapı Kredi Teknoloji Ar-Ge ve Özel Projeler",
-      "photoUrl": "https://media.licdn.com/dms/image/C4D03AQFMOOSVoDtjAg/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=ep189DFR9Lo_qRlEsbZ_EcFvVyLt5zplVgrKZyvg-YQ",
-      "name": "Enes Burak Dündar ",
-      "tags": [
-        "Machine Learning & AI"
-      ],
-      "title": "Ar-Ge Mühendisi – Yapı Kredi Teknoloji Ar-Ge ve Özel Projeler",
-      "order": 6,
-      "featured": false,
-      "company": "Yapı Kredi",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/logo_ykb_erkek_logo%20copy.jpg?alt=media&token=0f1bc544-0e2e-4ad8-ad7e-d092893936d6",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://tr.linkedin.com/in/enes-burak-dündar-7438a7115/"
-        }
-      ],
-      "bio": ""
-    },
-    "EnginDeveci": {
-      "shortBio": "Engin Deveci is a solution consultant.",
-      "photoUrl": "https://devfest.istanbul/images/people/engin_deveci.png",
-      "name": "Engin Deveci",
-      "tags": [
-        "Firebase",
-        "Flutter"
-      ],
-      "title": "Solutions Consultant",
-      "order": 14,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/engindeveci/"
-        }
-      ],
-      "bio": "Engin Deveci is a solution consultant. He holds a PhD from Boğaziçi University in Computer Science and has 15+ years of experience in designing, developing and delivering telecommunications, mobile and web solutions. He previously worked for Telsim, Oksijen and Ericsson. He also founded three startups and mentored several Turkish startups. Engin has been working as a solutions consultant with Google since 2017."
-    },
-    "ErdemDemir": {
-      "shortBio": "Erdem Demir is a a software engineer and technical consultant.",
-      "photoUrl": "https://devfest.istanbul/images/people/erdem_demir.jpg",
-      "name": "Erdem Demir",
-      "tags": [
-        "Firebase",
-        "Flutter"
-      ],
-      "title": "Consultant",
-      "order": 14,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/edemir/"
-        }
-      ],
-      "bio": "Erdem Demir is a a software engineer and technical consultant. Erdem holds a PhD from University of California in Software Engineering, he has over 10 years of experience in building complex software systems and technical consulting. He worked as a Software Engineer for Google from 2007 to 2011, worked as a Software Architect for Ericsson between 2011 and 2013, and has been working as a Publishers Technical Consultant with Google since 2013."
-    },
-    "ErhanTahminciler": {
-      "name": "Erhan Tahminciler",
-      "tags": [
-        "Panel"
-      ],
-      "title": "CEO",
-      "order": 6,
-      "featured": false,
-      "company": "Leafinbox",
-      "companyLogoUrl": "",
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/dirtybit",
-          "name": "Github"
-        },
-        {
-          "name": "Twitter",
-          "icon": "twitter",
-          "link": "https://twitter.com/sertaclgnsyl"
-        }
-      ],
-      "bio": "Leafinbox - Co-Founder & CEO, Ayzet - Co-Founder & CEO, Hürriyet - Principal Data Architect, Allianz Yaşam ve Emeklilik A.Ş. - Senior Business Intelligence",
-      "shortBio": "Leafinbox - Co-Founder",
-      "photoUrl": "https://media.licdn.com/dms/image/C4D03AQF7Dim8JLRYSw/profile-displayphoto-shrink_200_200/0?e=1545264000&v=beta&t=qH1BH-yz5eh-6Z0jVLPu4aGnrA7DN0BUNNl8666vcsM"
-    },
-    "GDGIstanbul": {
-      "featured": false,
-      "shortBio": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-      "company": "GDG Istanbul",
-      "photoUrl": "https://devfest.istanbul/images/logo-monochrome.png",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/company/2943205/"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/GDGIstanbul",
-          "name": "Twitter"
-        },
-        {
-          "name": "Facebook",
-          "icon": "facebook",
-          "link": "https://www.facebook.com/GDGIstanbul/"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/gdgistanbul/",
-          "name": "Github"
-        },
-        {
-          "icon": "website",
-          "link": "http://www.gdgistanbul.com/",
-          "name": "Website"
-        }
-      ],
-      "name": "GDG Istanbul",
-      "country": "Turkey",
-      "bio": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-      "tags": [
-        "Community"
-      ],
-      "companyLogo": "/images/logos/gdg_istanbul_logo.png"
-    },
-    "GökhanTopçu": {
-      "order": 14,
-      "featured": false,
-      "company": "Commencis",
-      "companyLogoUrl": "",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Twitter",
-          "icon": "twitter",
-          "link": "https://twitter.com/ifndefgt"
-        },
-        {
-          "name": "Twitter",
-          "icon": "linkedin",
-          "link": "www.linkedin.com/in/ifndefgt"
-        }
-      ],
-      "bio": "Gokhan is a Software Engineer with experience in different areas of software developement like aerospace, simulation and finance. He has been working on a variety of programming languages, including C++, Objective-C, Swift, Java and C#. Previously he worked on projects like T129 ATAK Helicopter and DATAS(Submarine Tactical Simulator). Since 2014 he focused on iOS development, building high quality -mostly financial- applications and frameworks for corporate customers. He is a lifelong learner, always passionate about simple and clean code, high quality software with great performance metrics. As developer hobbies, he likes working on compilers, optimizations, platform internals, reverse engineering and other low level stuff. Besides these he likes reading all kinds of books.",
-      "shortBio": "Gokhan is a Software Engineer with experience in different areas of software developement like aerospace, simulation and finance.",
-      "photoUrl": "https://image.ibb.co/ktdpHn/IMG_0497.jpg",
-      "name": "Gökhan Topçu",
-      "tags": [
-        "Google Technologies"
-      ],
-      "title": "Code Janitor"
-    },
-    "HadiTok": {
-      "tags": [
-        "Kotlin"
-      ],
-      "title": "Lead Android Developer",
-      "order": 13,
-      "featured": true,
-      "company": "Citizenme",
-      "companyLogoUrl": "http://www.citizenme.com/public/wp/wp-content/uploads/2016/03/Citizen_Me_Logo.png",
-      "country": "Istanbul, Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/haditok/"
-        },
-        {
-          "name": "Github",
-          "icon": "github",
-          "link": "https://github.com/oshamahue"
-        },
-        {
-          "name": "Website",
-          "icon": "website",
-          "link": "https://medium.com/@oshamahue"
-        }
-      ],
-      "bio": "7+ years Android experience developed more than 20 Mobile applications published to store. Developed applications for Android, server side Java EE and Windows phone 8 Developed web services for mobile and several web based applications using Java. Developed Mobile applications for companies -leaders in their fields in Turkey- like Turkcell, TTNET, Vestel and Arena",
-      "shortBio": "Developed applications for Android, server side Java EE and Windows phone 8 Developed web services for mobile and several web based applications using Java.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/haditok.jpeg?alt=media&token=9d858f2f-f3b0-4795-bcdd-d1640e1edeab",
-      "name": "Hadi Tok"
-    },
-    "HasanHosgel": {
-      "company": "LAB1866",
-      "photoUrl": "https://pbs.twimg.com/profile_images/942698873432297472/xZ7dBCI0_400x400.jpg",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/hosgel"
-        },
-        {
-          "name": "Twitter",
-          "icon": "twitter",
-          "link": "https://www.twitter.com/alosdev"
-        },
-        {
-          "name": "Github",
-          "icon": "github",
-          "link": "https://www.github.com/alosdev"
-        }
-      ],
-      "name": "Hasan Hosgel",
-      "country": "Berlin, Germany",
-      "bio": "Hasan Hoşgel is a dedicated Android developer with professional programming experience since 2003. Since 2010 doing all day long Android application development and also is a Google Developer Expert for Android. Continuous improvement of the architecture, performance and also quality are his dedication.  He works for Lab1886, beforehand a long time for ImmobilienScout24, Germany’s real estate marketplace leader and also for Kitchen Stories, which offered a premium cooking application. As a co-organizer of the “GDG Berlin Android” and as a speaker, he attended many mobile conferences and several Google Developer Groups across Europe. As well being in program committees and organization of mobile conferences.",
-      "tags": [
-        "Android"
-      ],
-      "title": "Android GDE & Senior Android Engineer",
-      "order": 7,
-      "featured": true,
-      "shortBio": "Hasan Hoşgel is a dedicated Android developer with professional programming experience since 2003. Since 2010 doing all day long Android application development and also is a Google Developer Expert for Android. "
-    },
-    "KevinNelson": {
-      "country": "Los Angeles",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/kevinnelson/"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/knelsoncloud",
-          "name": "Twitter"
-        }
-      ],
-      "bio": "Kevin Nelson is a Google Cloud Developer Advocate focused on storage and machine learning. Before joining the Cloud team, he was a lead Product Manager on Google Drive. Prior to joining Google in 2014, Kevin was a successful entrepreneur with over 20 years of experience building and managing software and SAAS companies. In addition to working at Google, Kevin sits on the board of Quantum Scientific Imaging, a company he co-founded which designs and manufactures scientific CCD cameras for applications that require superior image performance such as astronomical and medical imaging. In his free time, Kevin is an avid sailor and history buff who loves stargazing and studying the Age of Exploration. Mr. Nelson received a degree in Information and Computer Science from the University of California at Irvine.",
-      "shortBio": "Kevin Nelson is a Google Cloud Developer Advocate focused on storage and machine learning. ",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/kbnelson%20headshot%202018%20BW.jpg?alt=media&token=285e3300-c282-499c-89c7-987a8269b092",
-      "name": "Kevin Nelson",
-      "tags": [
-        "Machine Learning",
-        "AI"
-      ],
-      "title": "Architect Advocate",
-      "order": 0,
-      "featured": true,
-      "company": "Google Cloud",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg"
-    },
-    "KunalPatel": {
-      "shortBio": "Kunal Patel is a Senior Interaction Designer on the Material Design team at Google, focused on navigation, accessible design, and systems outreach.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/kunaldpatel_headshot.JPG?alt=media&token=c6d117c0-e292-4187-a17e-a927f038a5a9",
-      "name": "Kunal Patel",
-      "tags": [
-        "Design"
-      ],
-      "title": "Senior Interaction Designer",
-      "order": 5,
-      "featured": true,
-      "company": "Material Design, Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Orlando, Florida Area",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/kunaldpatel",
-          "name": "Linkedin"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://www.twitter.com/kunaldpatel",
-          "name": "Twitter"
-        }
-      ],
-      "bio": "Kunal Patel is a Senior Interaction Designer on the Material Design team at Google, focused on navigation, accessible design, and systems outreach. He brings a cross-discipline, design-build methodology to his work thanks to past experiences in architecture and product management."
-    },
-    "LauraMorinigo": {
-      "shortBio": "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. ",
-      "photoUrl": "https://scontent.fbtz1-10.fna.fbcdn.net/v/t31.0-1/c394.0.1202.1202/24130381_10155885452738523_1567860032777030525_o.jpg?_nc_cat=105&oh=ac3ff0ff4d1ff063309c0ffbe9270eb3&oe=5C1DE897",
-      "name": "Laura Morinigo",
-      "tags": [
-        "Firebase"
-      ],
-      "title": "Software Developer",
-      "order": 6,
-      "featured": true,
-      "company": "DMod Labs",
-      "companyLogoUrl": "https://pbs.twimg.com/profile_images/944223501858279424/fEIzU1I1_400x400.jpg",
-      "country": "Argentina",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/laurasmorinigo/?locale=en_US"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/lala_morinigo",
-          "name": "Twitter"
-        },
-        {
-          "name": "Github",
-          "icon": "github",
-          "link": "https://github.com/lauramorinigo"
-        },
-        {
-          "icon": "website",
-          "link": "https://medium.com/@laura.s.morinigo",
-          "name": "Website"
-        }
-      ],
-      "bio": "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. She has been involved in the tech industry over 10 years, working with different technologies as a fullstack developer and getting involved with education projects teaching coding. She is one of the organizers of GDG Cloud London and Women Techmakers lead. Originally from Buenos Aires, Argentina, she has been a digital nomad for about one year, traveling around; doing talks, workshops and connecting with the local tech communities. While she was on the road she created with her co-founders DMode Labs: a software company that promotes diversity and remote working."
-    },
-    "Lucian": {
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/IMG_2123.jpeg?alt=media&token=c422eede-af5b-4a07-a465-61d27e35efcb",
-      "name": "Lucian Driscu",
-      "tags": [
-        "Payments"
-      ],
-      "title": "Partner Technology Manger",
-      "order": 4,
-      "featured": false,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "London, United Kingdom",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/lucidriscu/",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "Experienced Solutions Consultant, passionate about technology in general, mobile and web in particular. Currently at Google managing technology partners for Google Pay. Can also code.",
-      "shortBio": "Experienced Solutions Consultant, passionate about technology in general, mobile and web in particular."
-    },
-    "MarkStephens": {
-      "tags": [
-        "Java"
-      ],
-      "title": "Ceo / Founder",
-      "order": 10,
-      "featured": true,
-      "shortBio": "He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999.",
-      "company": "IDRsolutions",
-      "companyLogoUrl": "https://www.idrsolutions.com/wp-content/uploads/2017/12/IDRSmallwithbreak.png",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/mark.jpg?alt=media&token=201ea472-92f6-4986-8581-31b825bd1d5d",
-      "name": "Mark Stephens",
-      "country": "United Kingdom",
-      "bio": "Mark Stephens was a speaker at DevFest 13,14, 15 and 17. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He helps to organise NetBeans UK conference and is doing 2 NetBeans talks at Oracle CodeOne. Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he can combine software and coding with palaces, churches, mosques and cisterns."
-    },
-    "MeteAtamel": {
-      "shortBio": "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. ",
-      "photoUrl": "https://meteatamel.files.wordpress.com/2018/04/atamel-5-01.jpeg",
-      "name": "Mete Atamel",
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Developer Advocate",
-      "order": 3,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "London, United Kingdom",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/meteatamel",
-          "name": "Twitter"
-        },
-        {
-          "name": "Website",
-          "icon": "website",
-          "link": "https://meteatamel.wordpress.com/speaker-profile/"
-        }
-      ],
-      "bio": "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian."
-    },
-    "MugeBezgin": {
-      "shortBio": " I'm studying Advertising Design and Communication at Yeditepe University. ",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Mu%CC%88ge%20Bezgin.png?alt=media&token=4b359de0-f301-4ede-8012-08a12a234167",
-      "name": "Muge Bezgin",
-      "tags": [
-        "Panel"
-      ],
-      "title": "Co-Founder",
-      "order": 6,
-      "featured": false,
-      "company": "StartupHR",
-      "companyLogoUrl": "",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/mugebezgin/"
-        }
-      ],
-      "bio": "I'm studying Advertising Design and Communication at Yeditepe University. At the same time i'm Co-Founder at StartupHR, working for branding and marketing of the company. "
-    },
-    "MuharremErdogdu": {
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Cloud Customer Engineer",
-      "order": 3,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Turkey",
-      "socials": [],
-      "bio": "Cloud Customer Engineer",
-      "shortBio": "Cloud Customer Engineer",
-      "photoUrl": "https://media.licdn.com/dms/image/C5603AQGtKXYuIC1Ovg/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=8SDtbftNS7_orvm7N-vZiWJ28VAlKb3s9biPISqWSE4",
-      "name": "Muharrem Erdogdu"
-    },
-    "OmerErkmen": {
-      "company": "Omerabi",
-      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZOT1SjY4UabQOsZ5vL7XNfiJXBSQXagaWrbnBfr100n7kyN2",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "Twitter.com/omererkmen",
-          "name": "Twitter"
-        }
-      ],
-      "name": "Omer Erkmen",
-      "country": "Turkey",
-      "bio": "1979 İTÜ Elektrik Elektronik lisans, 1984 UCSB Computer Science yüksek lisans mezunu olan Ömer Erkmen, CRM konusunda eğitmen ve danışman olarak yer aldığı Microsoft’taki kurumsal iş hayatından sonra Mekanist’e geçip yönetim kurulu üyeliği yapmıştır. 2015 yılında şirketin Zomato tarafından satın alınması ile daha aktif bir şekilde girişimcilik ve yatırım alanlarında rol almaya başlamıştır. Kurucu, mentor ve yatırımcı olarak birçok projeye dahil olmuş ve şu an halen durmaksızın girişimcilik alanında çalışmalar yapmaktadır. Dahil olduğu girişimler: Scorp, Flightrecorder, Ideasoft, Blesh, Temizlikyolda, Bionluk, Blinid, Kolay Randevu, Connected2me, Erasmusinn ve English Ninjas.        ",
-      "tags": [
-        "Web Technologies"
-      ],
-      "title": "Software Engineer",
-      "order": 2,
-      "featured": true,
-      "shortBio": "1979 İTÜ Elektrik Elektronik lisans, 1984 UCSB Computer Science yüksek lisans mezunu olan Ömer Erkmen, CRM konusunda eğitmen ve danışman olarak yer aldığı Microsoft’taki kurumsal iş hayatından sonra Mekanist’e geçip yönetim kurulu üyeliği yapmıştır."
-    },
-    "OnderG": {
-      "shortBio": "Google Cloud Country Manager",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/onder.jpg?alt=media&token=b9711122-48fd-452d-8a2a-65850a8992f9",
-      "name": "Önder Guler",
-      "tags": [
-        "Keynote"
-      ],
-      "title": "Google Cloud Country Manager",
-      "order": 1,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://tr.linkedin.com/in/alp-önder-guler-b767881/",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "Specialties: Information technology hardware, application and networking sales management, consumer, small business, enterprise, telecom industry, business development, leadership, restructring, innovation, Web 2.0, Internet, strategic planning, emerging markets, corporate social responsibility, telecommunications, data, voice, video and convergence"
-    },
-    "PamirErdem": {
-      "title": "Solutions Architect",
-      "order": 5,
-      "featured": true,
-      "company": "Acedemand",
-      "companyLogoUrl": "https://www.cncf.io/wp-content/uploads/2017/09/Screen-Shot-2017-09-26-at-4.55.35-PM.png",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Github",
-          "icon": "github",
-          "link": "https://github.com/pamir"
-        }
-      ],
-      "bio": "Solutions Architect @ Acedemand",
-      "shortBio": "Solutions Architect @ Acedemand",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Photo%20on%203.09.2018%20at%2009.29.jpg?alt=media&token=8e038ff5-9a98-4528-b7b3-1d8152b049a2",
-      "name": "Pamir Erdem",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    "PinarUgurluKirazci": {
-      "order": 3,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/pinarugurlu/",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "Pınar born in June 14, 1981 in Ankara, Turkey. She had her bachelor degree in Bilkent University Computer Engineering Department in 2002 and Masters of Business Administration from Bogazici University in 2006. She started her career in IBM Turkey in September 2002 as a Developer Consultant then switched to Technical Presales and Software Architect roles. She acts as a trusted advisor and dedicated client architect for strategic FSI customers. Then Pınar joined HPE Software in December 2014 as a Software Business Consultant. After 15 years of broad IT experience; Pinar joined Google as a Customer Engineer in 2017. She is actively working with customers for Cloud Adoption. ",
-      "shortBio": "Pınar born in June 14, 1981 in Ankara, Turkey. ",
-      "photoUrl": "https://media.licdn.com/dms/image/C4E03AQES7O0pqTsIbg/profile-displayphoto-shrink_800_800/0?e=1545868800&v=beta&t=-ZqHvS3Bl8oYeagkzKUBl_qgfuKZngROl4qBrgVsNns",
-      "name": "Pinar Ugurlu Kirazci",
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Cloud Customer Engineer"
-    },
-    "ResulCanerYildirim": {
-      "company": "Artisan UX",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/artisan_logo.png?alt=media&token=e1254a13-aeb0-4cb0-8aa1-b5a3db5bed6e",
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "www.linkedin.com/in/protechman",
-          "name": "Twitter"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/protechman",
-          "name": "Twitter"
-        }
-      ],
-      "bio": "Caner is a UX designer who is also a technology geek. Mainly focused on the design, business strategy and marketing of mobile applications. Passionate about good UX, IoT, and Android.  Previously he worked for leading companies of Turkey on mobile projects. Today, he is the founder of Artisan UX a design agency based in Istanbul making and creating apps that users love. Caner has been a user group leader at GDG Istanbul since 2013, organizing, participating, and speaking at events. He shares his experience in User Research, Interaction Design and UX Strategy via talks or workshops at Droidcons, DevFests, and other conferences.",
-      "shortBio": "Caner is a UX designer who is also a technology geek.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/32827288_10215048364756552_6656875219157778432_o.jpg?alt=media&token=6d3d2636-22d2-45db-b0d8-4b6cc3adecd1",
-      "name": "Resul Caner Yıldırım",
-      "tags": [
-        "Design"
-      ],
-      "title": "Founder / UX Designer",
-      "order": 7,
-      "featured": true
-    },
-    "RimKHAZHIN": {
-      "title": "Software Architect",
-      "order": 14,
-      "featured": true,
-      "company": "Faladdin",
-      "companyLogoUrl": "https://pbs.twimg.com/profile_images/924916525823332353/siUFEDlh_400x400.jpg",
-      "country": "Istanbul, Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/rim-khazhin/"
-        }
-      ],
-      "bio": "Rim is a Software architect and developer with experience in designing remote administration, secure communication, and mission-critical systems. Has designed and delivered a state-of-art Mobile Device Management (MDM) solution managing over 15 million devices. Architected and managed development of an Electronic Flight Strip Management system for Air Traffic Control. Managing a team of developers operating Faladdin app with over 6 million users worldwide. Author is a skilled trainer and frequent speaker at international developer conferences.",
-      "shortBio": "Rim is a Software architect and developer with experience in designing remote administration, secure communication, and mission-critical systems. ",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/RIM_6570_small.jpg?alt=media&token=3b49b50a-8464-44db-a22d-bb1dc2f798c0",
-      "name": "Rim KHAZHIN",
-      "tags": [
-        "Web Technologies"
-      ]
-    },
-    "SaidTahsinDane": {
-      "order": 1,
-      "featured": true,
-      "company": "Wayfair",
-      "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Wayfair_logo_with_tagline.png",
-      "country": "Berlin",
-      "socials": [
-        {
-          "name": "Twitter",
-          "icon": "twitter",
-          "link": "https://twitter.com/tasomaniac"
-        }
-      ],
-      "bio": "Expert on Android. Android team lead at Wayfair, Berlin. Very passionate developer who tries to live on the bleeding edge of technology and is very interested in mobile UX.",
-      "shortBio": "Expert on Android. Android team lead at Wayfair, Berlin.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/tahsin.jpeg?alt=media&token=7feaaa88-6317-43d8-a309-289583728db5",
-      "name": "Said Tahsin Dane",
-      "tags": [
-        "Generic Software Engineering"
-      ],
-      "title": "Android Lead Engineer"
-    },
-    "SelinAlaraOrnek": {
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/WhatsApp%20Image%202018-10-09%20at%2021.05.43.jpeg?alt=media&token=e14675b2-cd2a-44d5-b32d-978b3a9bb4ab",
-      "name": "Selin Alara Örnek",
-      "tags": [
-        "Assistant"
-      ],
-      "title": "Student",
-      "order": 16,
-      "featured": true,
-      "company": "Student",
-      "companyLogoUrl": "",
-      "country": "Istanbul, Turkey",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Selinoid2",
-          "name": "Twitter"
-        },
-        {
-          "name": "Website",
-          "icon": "website",
-          "link": "http://www.selinoid.com"
-        }
-      ],
-      "bio": "I am a 12 years old student at Özel Küçük Prens Ortaokulu. I love robotics, coding, technology and animals. I speak English, Turkish and French. This year I built a guide dog robot for visually impaired people, my robot dog iC4U and I won the first prize in the hardware category at Coderdojo's International Coolest Projects 2018 and we were also one of the 5 finalists in the open innovation category of the European Youth Awards. ",
-      "shortBio": "I am a 12 years old student at Özel Küçük Prens Ortaokulu. I love robotics, coding, technology and animals. I speak English, Turkish and French."
-    },
-    "SertacOlgunsoylu": {
-      "order": 2,
-      "featured": true,
-      "company": "Zeplin.io",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/ZeplinVersions_horizontal.png?alt=media&token=a5e1ae34-823c-493d-8cf5-f0aa06f8a159",
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Github",
-          "icon": "github",
-          "link": "https://github.com/dirtybit"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/sertaclgnsyl",
-          "name": "Twitter"
-        }
-      ],
-      "bio": "Sertaç is a software engineer at Zeplin. He is very excited about the future of the Web. He's mainly working on Zeplin’s Web app and Extensions.",
-      "shortBio": "Sertaç is a software engineer at Zeplin.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/IMG_4026.JPG?alt=media&token=397f5688-043d-42b3-ac68-329abaf81f31",
-      "name": "Sertac Olgunsoylu",
-      "tags": [
-        "Web Technologies"
-      ],
-      "title": "Software Engineer"
-    },
-    "Shaista": {
-      "title": "Cloud Customer Engineer",
-      "order": 3,
-      "featured": true,
-      "company": "Google",
-      "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-      "country": "Google Cloud India",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/shaistaaliya/",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "Shaista is a Customer Engineer for Google Cloud, working with Google since 2014. In the current role, she helps build customer trust around Google Cloud Solutions, Security and Collaboration. She has worked across various industries such as manufacturing, e-commerce and so on. Prior to this role, Shaista has done presales, business analysis, dev/test for various enterprise customers. Shaista has a Bachelor's degree in Computer Science Engineering. She spent majority of her school years in the middle east(Oman) before moving back to India.",
-      "shortBio": "Shaista is a Customer Engineer for Google Cloud, working with Google since 2014. In the current role, she helps build customer trust around Google Cloud Solutions, Security and Collaboration. ",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Security%20Photo.jpg?alt=media&token=fdfd6450-1743-49a9-ad4f-ddcadb4a6757",
-      "name": "Shaista Aliya",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    "TufanALIN": {
-      "order": 14,
-      "featured": true,
-      "shortBio": "Tufan is a full stack developer trying to learn and apply new developments in technology to all areas of his life and work.",
-      "company": "Binnaz",
-      "companyLogoUrl": "https://d20odvgv184fxr.cloudfront.net/theme/v3/images/logo-hd-en.png",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/eyetBzLg.png?alt=media&token=6d961c6c-a311-4435-9d90-4af152a1edb8",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/tufan-alin"
-        }
-      ],
-      "name": "Tufan ALIN",
-      "bio": "Tufan is a full stack developer trying to learn and apply new developments in technology to all areas of his life and work. After working as a manager in different business sectors for a long period of time, his love for software development and especially game development encouraged him to switch professions and become a full time developer. He loves learning and trying new technologies in the least expected situations.",
-      "tags": [
-        "Machine Learning & AI"
-      ],
-      "title": "Dev Team Leader"
-    },
-    "TufanKüpeli": {
-      "shortBio": "Mobil teknolojileri takip etmek ve güncel konularla çalışmaktan zevk alırım, şu anda Adesso Turkey firmasında çalışıyorum ve Akbank lokasyonunda kurulu ekibimiz ile çalışmalarımıza devam ediyoruz.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/tufankupeli.jpg?alt=media&token=32a27ac9-d2c8-42e4-baf1-3b5844796234",
-      "name": "Tufan Küpeli",
-      "tags": [
-        "Android"
-      ],
-      "title": "Mobile Team Lead",
-      "order": 15,
-      "featured": true,
-      "company": "Adesso Turkey",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/adesso.png?alt=media&token=aed34ed2-7749-4039-974f-0cc288c671e4",
-      "country": "Istanbul, Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://tr.linkedin.com/in/tufan-k%C3%BCpeli-92715629",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "Mobil teknolojileri takip etmek ve güncel konularla çalışmaktan zevk alırım, şu anda Adesso Turkey firmasında çalışıyorum ve Akbank lokasyonunda kurulu ekibimiz ile çalışmalarımıza devam ediyoruz."
-    },
-    "UgurTuran": {
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "www.linkedin.com/in/ugur-turan",
-          "name": "Twitter"
-        }
-      ],
-      "bio": "Ugur Turan is a senior software architect in Accenture’s global Industry X.0 group. In high school, he started coding on his lovely Amiga 500, and became a professional in 1999. He has designed and developed quite diverse types of software: Accounting, balistic analysis, TV broadcasting, embedded telecom servers, bank ATMs, financial servers, healthcare programs, mobile phones, and even industrial automation control machines. ",
-      "shortBio": "Ugur Turan is a senior software architect in Accenture’s global Industry X.0 group.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/ugur_turan.jpg?alt=media&token=3715e822-5bf1-44b9-be0a-1873ea77d4d9",
-      "name": "Ugur Turan",
-      "tags": [
-        "Generic Software Engineering"
-      ],
-      "title": "Chief Technology Architect",
-      "order": 14,
-      "featured": false,
-      "company": "Accenture Industry X.0",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Acc_IndustryX0_Wordmark_BLK.png?alt=media&token=dfd6b0ce-88bb-4f53-8a12-e2e5d471244b"
-    },
-    "YunusOruç": {
-      "country": "Turkey",
-      "socials": [
-        {
-          "name": "Linkedin",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/yunus-oru%C3%A7-7bb79b136/"
-        }
-      ],
-      "bio": "I'm founder of Animega and also a student in Boğaziçi University.",
-      "shortBio": "I'm founder of Animega and also a student in Boğaziçi University.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/pp.jpg?alt=media&token=3efee8f8-8683-41b6-a645-44ba13e29171",
-      "name": "Yunus Oruç",
-      "tags": [
-        "Panel"
-      ],
-      "title": "Founder & Ceo",
-      "order": 6,
-      "featured": false,
-      "company": "Animega",
-      "companyLogoUrl": ""
-    },
-    "ÇağatayÇivici": {
-      "shortBio": "Cagatay Civici is a Java Champion and a front-end engineer.",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/%C3%A7a%C4%9Fataycivivi.jpg?alt=media&token=ecc855db-7b4a-44e3-b867-772e86787db4",
-      "name": "Çağatay Çivici",
-      "tags": [
-        "Web Technologies"
-      ],
-      "title": "CEO",
-      "order": 14,
-      "featured": true,
-      "company": "PrimeTek",
-      "companyLogoUrl": "https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png",
-      "country": "Ankara, Turkey",
-      "socials": [
-        {
-          "name": "Github",
-          "icon": "github",
-          "link": "https://github.com/cagataycivici"
-        }
-      ],
-      "bio": "Cagatay Civici is a Java Champion and a front-end engineer. As the founder of popular PrimeFaces, PrimeNG and PrimeReact open source UI component suites, he has been working with various web technologies for over 10 years."
-    },
-    "ŞükrüHasdemir": {
-      "order": 3,
-      "featured": true,
-      "company": "HiveCDN",
-      "companyLogoUrl": "https://www.hivecdn.com/assets/images/hivecdn-logo.png",
-      "country": "Turkey",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/sukruhasdemir",
-          "name": "Linkedin"
-        }
-      ],
-      "bio": "Sukru Hasdemir is a founder of HiveCDN, a software startup providing enterprise publishers with peer-to-peer technology to reduce video delivery costs and enhance watching experience. Sukru was previously the Head of Data Science at Adphorus, developing Machine Learning and Mathematical Optimization-based software systems for global advertisers from Germany, Argentina, UAE, and India. Adphorus was sold to US-based ad-tech firm Sojern in 2017. Before advertising technology, Sukru has worked in the Energy sector, developing software systems that optimize production and trading strategies of natural gas power plants. Sukru has a BSc from Bilkent University and a MA from Sabanci University.",
-      "shortBio": "Sukru Hasdemir is a founder of HiveCDN, a software startup providing enterprise publishers with peer-to-peer technology to reduce video delivery costs and enhance watching experience.",
-      "photoUrl": "https://media.licdn.com/dms/image/C5603AQEAJfBFEUorDg/profile-displayphoto-shrink_200_200/0?e=1545868800&v=beta&t=-f9aGrj7v9lfL1oWifQYCwbzlM6ienj2M1WRqJc3tGE",
-      "name": "Şükrü Hasdemir",
-      "tags": [
-        "Web Technologies"
-      ],
-      "title": "Co-founder"
-    }
-  }
+  "videos": [],
+  "previousSpeakers": { }
 }

@@ -1,0 +1,396 @@
+{
+    "101": {
+        "language": "English",
+        "description": "Progressive Delivery makes it easier to adopt Continuous Delivery, by deploying new versions to a subset of users and evaluating their correctness and performance before rolling them to the totality of the users, and rolled back if not matching some key metrics. Canary deployments is one of the techniques in Progressive Delivery, used in companies like Facebook to roll out new versions gradually. But good news! you don't need to be Facebook to take advantage of it.\n\nWe will demo how to create a fully automated Progressive Delivery pipeline with Canary deployments and rollbacks in Kubernetes using Jenkins X, an open source platform for cloud native CI/CD in Kubernetes, and Flagger, a project that uses Istio and Prometheus to automate Canary rollouts and rollbacks.",
+        "complexity": "GDG",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "carlos_sanchez"
+        ],
+        "title": "Progressive Delivery: Continuous Delivery the Right Way"
+    },
+    "102": {
+        "title": "Flashy and smooth web animations",
+        "language": "English, Turkish",
+        "description": "To achieve flashy and smooth animations on web browsers, a developer needs to know first how a brain perceives animations and second how a browser works. This session is about the perception of speed, browser timeline, examples and tips for flashy animations.",
+        "complexity": "GDG",
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "alaa_alnuaimi"
+        ]
+    },
+    "103": {
+        "language": "Turkish",
+        "description": "This talk introduces \"Unit testing for Android Developers\". It demonstrates why Android developers write tests, and how they start. It will also discuss how developers structure their android applications.",
+        "complexity": "Beginner",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "muratcanbur"
+        ],
+        "title": "Unit Testing For Android Developers"
+    },
+    "104": {
+        "language": "Turkish",
+        "description": "findViewById() has been something Android developers tried to avoid to reduce boilerplate and we has different ways to access the views from the code side. I will give a brief introduction to how views are created from the xml, how findViewById() works and I will talk about the alternatives like ViewBindings, DataBindings, Kotlin Synthetics and how they work. I will also talk about Compose which is the future of the android UI. ",
+        "complexity": "Beginner",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "hadi_tok"
+        ],
+        "title": "Finding the view"
+    },
+    "105": {
+        "language": "Turkish",
+        "description": "Technology continues its fast evolution as the apps on our gadgets demand more resources to run. We need to debunk the myth that everybody has high-end phones and everybody is using high-speed networks. More than half of the people on this planet are using slow or medium speed networks, hence average mobile devices usually struggle to load complex websites.\nFrom Progressive Web Apps to route based code splitting, service workers to image optimisation, there are various ways to create fast performing websites. Using your performance budget is the key to success. This talk focuses on how our web apps need to adjust in order to achieve user happiness in terms of mobile and web.",
+        "complexity": "Beginner",
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "bilal_cinarli"
+        ],
+        "title": "Why Performance Matters?"
+    },
+    "106": {
+        "language": "English, Turkish",
+        "description": "While machine learning is radically transforming many sectors, there exists the need for automating machine learning development processes in today's world. AutoML, where research spans from hypermeter optimization to neural architecture search with evolutionary algorithms or reinforcement learning, promises to democratize access to ML. Cloud AutoML by Google offers AutoML solutions for several problems. In the talk, I will briefly outline machine learning development process, how to automate it in theory, and then brainstorm about possible use cases of Cloud AutoML for non-experts and experts in ML. Does it really work? Or, how to make it work.\n",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "speakers": [
+            "yusuf_garigoz"
+        ],
+        "title": "AutoML: AI that learns how to learn"
+    },
+    "107": {
+        "language": "Turkish",
+        "description": "Daha önce hep Kubernetes nasıl çalışır nasıl deployment yapılır onlar konuşuldu, ancak Microservice dünyasında Kubernetes tüm problemleri çözen sihirli bir tool değil.\n\nKod seviyesinde yapılan değişikliklerin infra tarafında her zaman bir karşılığı var\n\n- Boot Sürelerini Hızlandırmak \n    - Dependency Injection nasıl çalışır\n    - Runtime dependency injection ve problemleri\n    - Problemin çözümü için Compile Time Injection ve Framework ile beraberinde gelen çözümler\n    - Kubernetes tarafındaki scaling kazanımları\n- Network Optimizasyonu (GRPC)\n    - gRPC Nedir?\n    - HTTP2\n    - Kubernetes tarafında gRPC kullanırken dikkat edilmesi gerekenler ve kazanımları\n- Reactive backend uygulamaları ve Spring vs Micronaut karşılaştırması, ( bu kısım tüm sunumun kısa bir özeti olacak )",
+        "complexity": "Beginner",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "metin_seylan"
+        ],
+        "title": "Kubernetes Üzerinde Yüksek Performanslı Uygulamlar"
+    },
+    "108": {
+        "language": "English, Turkish",
+        "description": "Google Assistant is growing day to day. With great updates and new implementations, Assistant became the best personal digital assistant on the market. Since May 2019, Google Assistant started to support Interactive Canvas.  Using Interactive Canvas to create an Action for the Google Assistant allows us to create the best conversational interfaces with the rich visual capabilities of HTML.\n\nWith a new and emerging technology, it is always hard to understand the philosophy behind the design. In this session, we will learn how to design a basic game for Interactive Canvas.  \n\nNote: At this time, Google is only approving Canvas Actions that are gaming experiences. But you can use the same techniques to create different actions in the future. ",
+        "complexity": "Beginner",
+        "tags": [
+            "Design"
+        ],
+        "speakers": [
+            "resul_caner_yildirim"
+        ],
+        "title": "Designing for Interactive Canvas on Google Assistant"
+    },
+    "109": {
+        "language": "English",
+        "description": "Creating a cross platform app on Flutter is really efficient but can everything be tested and automated so you assure your high quality app stays high quality over time. And if everything is test does run on IOS and Android as expected.\n\nDuring this talk we will touch upon unit testing, widget testing, screenshot testing and end to end testing and setting it up in an automated way so you can be sure that the app you build is the quality you expect it be.",
+        "complexity": "Beginner",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "dylan_drost"
+        ],
+        "title": "How to test on you Flutter app"
+    },
+    "110": {
+        "language": "English",
+        "description": "Android engineering has come a long way. Nowadays most applications are modularized to a certain degree - to combat high compile times, enforce separation of concerns or to group code based on certain scopes.\n\nIn this talk we will take a look at navigation in modularized apps. Navigation in Android can be done explicitly by passing the class variable or implicit by sending an Intent with a certain configuration. Since modularization is supposed to simplify our dependency graph, we will take a closer look at deep linking as a navigation pattern and compare different approaches like Intent filter, a custom deeplink processor or the Android Jetpack Navigation component.\n\nAfter this talk, you will be able to modularize your application with a clean, structured and scalable navigation.",
+        "complexity": "Beginner",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "damian_burke"
+        ],
+        "title": "Navigation in Modular Applications with Deep Linking"
+    },
+    "111": {
+        "language": "Turkish",
+        "description": "2018 yılından beri Google AIY kitleri yardımıyla robotlarımda görüntü işleme ve sesli komut  üzerinde çalışıyorum. Robotlarıma AIY Voice kit ile birlikte Google Assistant Api'sini kullanıyorum. Robotlarıma uygulayarak TensorFlow ve Dialogflow hakkındaki bilgilerimi geliştirmeye çalışıyorum. Rehber robot ic4u2 ve öğrenci rehberi robotum BB4All üzerinde yaptığım teknik çalışmaları sunmak istiyorum. Sunumun detayında Raspberry Pi ve Arduino üzerinde Google AIY kitlerin kullanımı, mekanik zorluklar, python, TensorFlow ve DialogFlow'un RPi üzerinde kullanımını paylaşmak istiyorum.   ",
+        "complexity": "Beginner",
+        "tags": [
+            "Robotics & assistant"
+        ],
+        "speakers": [
+            "selin_alara_ornek"
+        ],
+        "title": "Robotlarım ve Google"
+    },
+    "112": {
+        "language": "Turkish",
+        "description": "We're gonna build a small Android Application using Jetpack Compose.",
+        "complexity": "Beginner",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "necatisozer"
+        ],
+        "title": "Simple UI Development With Jetpack Compose"
+    },
+    "113": {
+        "language": "English",
+        "description": "Thanks to machine learning and AI, applications are now being created that can see, hear, and understand the world around them. This talk will demonstrate how Google Cloud AutoML enables developers with limited machine learning expertise to build and deploy customized, high quality, tabular data, vision, translation, and natural language models by leveraging Google’s state of the art transfer learning, and Neural Architecture Search technology.",
+        "complexity": "Advanced",
+        "tags": [
+            "Machine Learning & Ai"
+        ],
+        "speakers": [
+            "kevin_nelson"
+        ],
+        "title": "Building Custom Models in AutoML"
+    },
+    "114": {
+        "language": "English",
+        "description": "Sascha will demonstrate the opportunities and challenges of Conversational AI learned from the practice (i.e. Google Assistant, Amazon Alexa, Webchats, Facebook Messenger, WhatsApp etc.). Both Technology and User Experience will be covered introducing a process finding micro-moments, writing happy paths, gathering intents, coding and designing the conversational flow, and finally publishing on almost all channels including Voice Services and Chatbots. Valuable for enterprises, developers, and designers. ",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "sashcawolter"
+        ],
+        "title": "Conversational AI Demystified: Build your bot live on stage"
+    },
+    "115": {
+        "language": "English",
+        "description": "Go celebrates 10 year anniversary since it was open sourced.  We reflect on the last 10 years with a programming language historian and archeologists lense.  Come dissect a Go program to see the past, present, and future. Learn how modern programming languages shaped the decade and what is in store for developers for the next 10 years.  ",
+        "tags": [
+            "GoLang"
+        ],
+        "speakers": [
+            "van_riper",
+            "carmen_andoh"
+        ],
+        "title": "Reflections on 10 years of Go "
+    },
+    "116": {
+        "language": "Turkish, English",
+        "description": "From the day that it's announced, Flutter is attracting so many developers from different backgrounds. It gives the developers a chance to develop an app from a single codebase and deploy it for Android, iOS, Desktop, and Web. But not everyone is in the position to abandon an existing codebase and start from scratch - luckily Flutter got you covered even if you just want to extend your existing application with cool Flutter features. In this talk, we will have a look at how you can add Flutter to your ongoing iOS and Android applications by showing a real-life example app with millions of users and, we will talk about how you can rewrite your existing applications step by step with Flutter.",
+        "tags": [
+            "Flutter",
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "muhammedsalih"
+        ],
+        "title": "How to add Flutter to your existing app"
+    },
+    "117": {
+        "language": "Turkish, English",
+        "description": "Android engineering has come a long way. Nowadays most applications are modularized to a certain degree - to combat high compile times, enforce separation of concerns or to group code based on certain scopes. In this talk we will take a look at navigation in modularized apps. Navigation in Android can be done explicitly by passing the class variable or implicit by sending an Intent with a certain configuration. Since modularization is supposed to simplify our dependency graph, we will take a closer look at deep linking as a navigation pattern and compare different approaches like Intent filter, a custom deeplink processor or the Android Jetpack Navigation component. After this talk, you will be able to modularize your application with a clean, structured and scalable navigation.",
+        "tags": [
+            "Android",
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "damian_burke"
+        ],
+        "title": "Navigation in Modular Applications with Deep Linking"
+    },
+    "118": {
+        "language": "Turkish, English",
+        "description": "With the introduction of Interactive Canvas on Google Assistant, we can now build full-fledged games with decent graphics that you can control with your voice. In this talk, we'll dive deep into the technical details of how developers build voice gaming experiences with rich visuals on Google Assistant. ",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "yukselT"
+        ],
+        "title": "Building Games For The Google Assistant"
+    },
+    "119": {
+        "language": "English",
+        "description": "Mainly the presentation would be to go through all 12 factors and for each provide tech capabilities GKE is currently offering that facilitate the implementation of those 12 factor apps. For example for the logs management, GKE offers out of the box monitoring with Stackdriver and show a demo on how it works/how to enable. Could also possible cover Anthos (as extension to the presentation).",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "ecaterina_grisaeva"
+        ],
+        "title": "12 Factor App with GKE"
+    },
+    "120": {
+        "language": "Turkish",
+        "description": "Sunumda bir iOS projesini neden modüler hale getirmeliyiz? Modüler hale getirdiğimizde ne gibi faydalar elde ederiz. Projeyi nasıl modüler yapabilirim ve nereden başlamalıyım?",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "ahmet_keskin"
+        ],
+        "title": "Modular Architecture in iOS"
+    },
+    "121": {
+        "language": "Turkish",
+        "description": "Adding PWA capabilities to an Angular app is easy with adding @angular/pwa via ng cli. However, you need to do more on your app to create best experiences for your users on multiple platforms. This session will cover what you need to do to optimise your PWA for the production with the guidelines of best practices and platform optimisations. These optimisations include iOS compatibility, web app manifest and ngsw configuration along with firebase server configuration. Source of the workshop can be found here: https://github.com/onderceylan/pwa-workshop-angular-firebase",
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "onder_ceylan"
+        ],
+        "title": "Build a production ready PWA with Angular and Firebase"
+    },
+    "122": {
+        "language": "Turkish",
+        "description": "Did you know that the free and OpenSource IDE NetBeans allows you to write and debug both backend server code (in Java, PHP, and other languages) and a the front end (HTML5, CSS and HTML5)? Did you also know that it allows you to debug and test your applications in Chrome with dynamic editing in both? In this short and fast-paced tutorial, we will step you through the process of creating, testing and debugging a sample web application in NetBeans and Chrome.",
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "mark_stephens"
+        ],
+        "title": "Using NetBeans and Chrome to develop a Web application"
+    },
+    "123": {
+        "language": "Turkish",
+        "description": "if you are looking for a challenge to extend and push your serverside coding skills and pick up new Open source skills and experiences, this is the talk for you! We will showing you how to download the Java source code for NetBeans IDE. We will then setup, edit, test and run within NetBeans itself, adding new features to the codebase. We will be using lots of Open Source technologies including Git, Ant, Java, and NetBeans itself as well as introducing you to the Apache project. ",
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "niraliabhani"
+        ],
+        "title": "Taking your code skills to a new level by hacking the Apache NetBeans IDE"
+    },
+    "124": {
+        "language": "English",
+        "description": "When writing the unit test in Java,  we define the test methods in descriptive way. Nowadays more and more people switch using Kotlin from Java, and the way of writing unit test with Kotlin related library is also improved. I will speak about how to write your Kotlin unit test in more organised and clean way with annotations and library, also showing code snippets for both Java and Kotlin unit test comparisons.",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "carolyn_hung"
+        ],
+        "title": "Writing organised and clean Kotlin unit test"
+    },
+    "125": {
+        "language": "Turkish",
+        "description": "Everybody who has ever worked in a team where unit tests are considered seriously knows this feeling. You do some non-trivial code changes and your tests - which were supposed to make refactoring easier and safer - don't even compile. Despite the fact tests became much more common in the Android world than they used to be and developers have a more mature tooling available at hand, we still often fall into a trap of making our specs too coupled to the actual implementation. During my presentation I will show you a few simple tricks that can be commonly applied so that your tests will become more of a help, and less of a burden.",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "mateusz_herych"
+        ],
+        "title": "Mocks vs Fakes vs Stubs - how to apply different techniques to write better tests."
+    },
+    "126": {
+        "language": "Turkish",
+        "description": "TBA",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "ali_can_batur"
+        ],
+        "title": "TBA"
+    },
+    "127": {
+        "language": "Turkish",
+        "description": "TBA",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "muratyener"
+        ],
+        "title": "Java kotlin interoperability "
+    },
+    "128": {
+        "language": "Turkish",
+        "description": "TBA",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "muratyener"
+        ],
+        "title": "What is new with Android 10 UI "
+    },
+    "129": {
+        "language": "Turkish",
+        "description": "TBA",
+        "tags": [
+            "Panel"
+        ],
+        "speakers": [],
+        "title": "Panel"
+    },
+    "130": {
+        "language": "Turkish",
+        "description": "TBA",
+        "tags": [
+            "Devfest"
+        ],
+        "speakers": [],
+        "title": "Closing Keynote"
+    },
+    "132": {
+        "icon": "registration",
+        "title": "Registration",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+        "description": "Get your badge, coffee, enjoy talking with tech edicts around"
+    },
+    "133": {
+        "description": "Foooooooood!",
+        "icon": "lunch",
+        "title": "Lunch",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"
+    },
+    "134": {
+        "title": "Coffee break",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+        "description": "Coffeeeeeee!",
+        "icon": "coffee-break"
+    },
+    "135": {
+        "icon": "coffee-break",
+        "title": "Morning coffee",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
+        "description": "Coffeeeeeee!"
+    },
+    "136": {
+        "icon": "opening",
+        "title": "GDG DevFest Istanbul 2019 Opening",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+        "language": "English",
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners."
+    },
+    "137": {
+        "title": "Afterparty & Networking",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+        "description": "Afterparty is a great time to have some fun and meet new people",
+        "icon": "party"
+    },
+    "138": {
+        "title": "Conference closing and contest winners announcements",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session."
+    },
+    "139": {
+        "language": "English",
+        "description": "",
+        "title": "Keynote"
+    },
+    "140": {
+        "title": "TBD",
+        "language": "English",
+        "description": "TBD"
+    }
+}

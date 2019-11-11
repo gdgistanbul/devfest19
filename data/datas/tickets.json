@@ -1,0 +1,43 @@
+{
+    "000": {
+        "order": "0",
+        "soldOut": false,
+        "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en",
+        "name": "EDU",
+        "info": "Requires valid student/lecturer ID",
+        "starts": "Sep 1",
+        "currency": "₺",
+        "price": 50,
+        "available": true,
+        "ends": "Nov 23"
+    },
+    "001": {
+        "available": true,
+        "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en",
+        "name": "Early Bird",
+        "currency": "₺",
+        "starts": "Sep 1",
+        "inDemand": true,
+        "ends": "Oct 18",
+        "order": "1",
+        "soldOut": false,
+        "info": "Or first 500 tickets",
+        "price": 100,
+        "regular": true
+    },
+    "002": {
+        "info": "Always on",
+        "price": 150,
+        "regular": true,
+        "available": true,
+        "url": "http://www.biletix.com/etkinlik/YR501/ISTANBUL/en",
+        "name": "Regular",
+        "currency": "₺",
+        "starts": "Sep 1",
+        "inDemand": false,
+        "ends": "Nov 23",
+        "soldOut": false,
+        "order": "2",
+        "primary": true
+    }
+}

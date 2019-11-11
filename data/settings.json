@@ -31,6 +31,12 @@
       "label": "Speakers"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule",
+      "link_type": "_self",
+      "label": "Schedule"
+    },
+    {
       "route": "team",
       "permalink": "https://www.gdgistanbul.com/team",
       "link_type": "_blank",
