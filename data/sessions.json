@@ -176,6 +176,16 @@
         ],
         "title": "Conversational AI Demystified: Build your bot live on stage"
     },
+    "116": {
+        "language": "English",
+        "description": "One of the reasons for introducing Service Mesh is Observability. Especially applications are distributed like microservices, it is critical to know how those are connected to each other. Istio is an open source platform for this. While Istio has many functions, you don’t have to use all: Making services connections observable is baby steps.I will present how it works, how to start using it, and upcoming features, mostly focusing on “Observability”. Also options to manage Istio on GCP are covered.",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "JunSakata"
+        ],
+        "title": "Seeking Observability: Getting Started with Service Mesh on GCP"
     "1000": {
         "language": "Turkish",
         "description": "Keynote",
