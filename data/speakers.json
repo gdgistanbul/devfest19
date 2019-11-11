@@ -632,5 +632,27 @@
         "bio": "A passionate Android developer who builds applications with love",
         "shortBio": "A passionate Android developer who builds applications with love.",
         "title": "Android Developer"
+    },
+    "JunSakata": {
+        "name": "Jun Sakata",
+        "order": 0,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/sakajunquality",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Cloud"
+        ],
+        "company": "Ubie Inc",
+        "companyLogoUrl": "https://avatars1.githubusercontent.com/u/42458979?s=200&v=4",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1047157392247422976/CE5oOWDQ_400x400.jpg",
+        "country": "Tokyo",
+        "bio": "Google Developers Expert specialized in GCP. I also work as Software Engineer at Ubie Inc, a healthcare startup in Tokyo. I am responsible for designing, developing and running services on Google Cloud. I usually do deploying services on Kubernetes, managing its CI/CD pipelines, managing traffic policies and observing traffic using the cloud’s managed, open sourced and internal products. I’m focusing on services’ observability for the sake of SRE practices.",
+        "shortBio": "Google Developers Expert specialized in GCP. I also work as Software Engineer at Ubie Inc, a healthcare startup in Tokyo.",
+        "title": "Software Engineer"
     }
 }
