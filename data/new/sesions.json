@@ -414,5 +414,16 @@
             "Meysam_Asgarichenaghlou","Omid_Safarzadeh"
         ],
         "title": "DEEPNLP"
+       },
+      "143": {
+        "language": "Turkish",
+        "description": "Flutter, tek kaynak koddan mobil, web ve desktop için uygulama geliştirmeye yarayan Google'in yeni açık kaynak kodlu uygulama geliştirme aracı. Çok hızlı bir şekilde popüler oldu; guzel ve kaliteli uygulama geliştirmek için tercih edilen ilk platformlardan biri haline geldi. Peki Flutter neden bu kadar hızla kabul edildi, ne avantajları var, nasil çalışır, neden Alibaba, Groupon ve Google gibi şirketler uygulama geliştirme için Flutter kullanmaya başladı? Bu soruların cevabını merak ediyorsaniz veya Flutter'a hiç giriş yapmadıysanız, bu konuşma iyi bir başlangıç olacaktır. ",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "Nilay_Yener"
+        ],
+        "title": "Flutter! Nedir, Nasil, Neden? "
     }
 }
