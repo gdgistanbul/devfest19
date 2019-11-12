@@ -736,5 +736,49 @@
         "bio": "He is currently principal AI researcher at Adesso Turkey. His research interests and working area includes deepNLP, natural language processing, deep learning and machine learning. Currently working on various AI projects ranging from image processing to natural language processing at akbank bankacilik merkezi on behalf of adesso turkey.",
         "shortBio": "He is currently principal AI researcher at Adesso Turkey.",
         "title": "Principal AI Researcher"
+      },
+    "Nilay_Yener": {
+        "name": "Nilay Yener",
+        "order": 0,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/nlycskn",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "company": "Google",
+        "companyLogoUrl": "ttps://devfest.istanbul/images/logos/google.svg",
+        "photoUrl": "https://i.ibb.co/CBd0VS2/nilay-yener.jpg",
+        "country": "San Francisco",
+        "bio": "Nilay, Amerika'da Flutter ekibinde çalışıyor. GDG Istanbul ile başlayan Yazilimci Topluluklari macerası, Silikon Vadisi'nde "Developer Relations" kariyerine sürüklerken, en son kendini Flutter ekibinde buldu. 4 yildir Google'da çalışıyor. Yazilimci topluluklari, Flutter ve Karadeniz çayı hakkında konuşmak en sevdigi, bi yerlerde görürseniz lütfen gidin merhaba deyin. ",
+        "shortBio": "Nilay, Amerika'da Flutter ekibinde çalışıyor.",
+        "title": "DevRel Program Manager for Flutter and Dart"
+     },
+    "Ryan_Fanelli": {
+        "name": "Ryan Fanelli",
+        "order": 0,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/ryan-fanelli-9407ba12/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "company": "Google",
+        "companyLogoUrl": "ttps://devfest.istanbul/images/logos/google.svg",
+        "photoUrl": "https://i.ibb.co/bKHQgLf/ryan-fanelli.jpg",
+        "country": "London",
+        "bio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
+        "shortBio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
+        "title": "Software Engineer"
     }
 }
