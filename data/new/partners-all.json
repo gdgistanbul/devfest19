@@ -1,14 +1,14 @@
 {
     "0": {
-        "order": 0,
-        "title": "Platinum Partner"
+        "title": "Platium Partners",
+        "order": 0
     },
     "1": {
         "order": 1,
         "title": "General Partner"
     },
     "2": {
-        "title": "Gold Partner",
+        "title": "Gold Partners",
         "order": 2
     },
     "3": {
@@ -19,15 +19,15 @@
         "title": "Bronze Partners",
         "order": 3
     },
-    "5": {
+    "7": {
         "title": "Supporters",
         "order": 3
     },
-    "6": {
-        "order": 4,
-        "title": "Gift Partners"
+    "5": {
+        "title": "Gift Partners",
+        "order": 4
     },
-    "7": {
+    "6": {
         "order": 4,
         "title": "Community Partners"
     }

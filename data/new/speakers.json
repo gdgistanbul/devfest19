@@ -692,10 +692,10 @@
         "bio": "Google Developers Expert specialized in GCP. I also work as Software Engineer at Ubie Inc, a healthcare startup in Tokyo. I am responsible for designing, developing and running services on Google Cloud. I usually do deploying services on Kubernetes, managing its CI/CD pipelines, managing traffic policies and observing traffic using the cloud’s managed, open sourced and internal products. I’m focusing on services’ observability for the sake of SRE practices.",
         "shortBio": "Google Developers Expert specialized in GCP. I also work as Software Engineer at Ubie Inc, a healthcare startup in Tokyo.",
         "title": "Software Engineer"
-     },
+    },
     "Meysam_Asgarichenaghlou": {
         "name": "Meysam Asgarichenaghlou",
-        "order": 0,
+        "order": 3,
         "featured": true,
         "socials": [
             {
@@ -714,10 +714,10 @@
         "bio": "He is currently senior AI researcher at Adesso Turkey. His research interests and working area includes deepNLP, natural language processing, deep learning and machine learning. Currently working on various AI projects ranging from image processing to natural language processing at akbank bankacilik merkezi on behalf of adesso turkey.",
         "shortBio": "He is currently senior AI researcher at Adesso Turkey.",
         "title": "Senior AI Researcher"
-     },
+    },
     "Omid_Safarzadeh": {
         "name": "Omid Safarzadeh",
-        "order": 0,
+        "order": 4,
         "featured": true,
         "socials": [
             {
@@ -736,7 +736,7 @@
         "bio": "He is currently principal AI researcher at Adesso Turkey. His research interests and working area includes deepNLP, natural language processing, deep learning and machine learning. Currently working on various AI projects ranging from image processing to natural language processing at akbank bankacilik merkezi on behalf of adesso turkey.",
         "shortBio": "He is currently principal AI researcher at Adesso Turkey.",
         "title": "Principal AI Researcher"
-      },
+    },
     "Nilay_Yener": {
         "name": "Nilay Yener",
         "order": 0,
@@ -755,10 +755,10 @@
         "companyLogoUrl": "ttps://devfest.istanbul/images/logos/google.svg",
         "photoUrl": "https://i.ibb.co/CBd0VS2/nilay-yener.jpg",
         "country": "San Francisco",
-        "bio": "Nilay, Amerika'da Flutter ekibinde çalışıyor. GDG Istanbul ile başlayan Yazilimci Topluluklari macerası, Silikon Vadisi'nde "Developer Relations" kariyerine sürüklerken, en son kendini Flutter ekibinde buldu. 4 yildir Google'da çalışıyor. Yazilimci topluluklari, Flutter ve Karadeniz çayı hakkında konuşmak en sevdigi, bi yerlerde görürseniz lütfen gidin merhaba deyin. ",
+        "bio": "Nilay, Amerika'da Flutter ekibinde çalışıyor. GDG Istanbul ile başlayan Yazilimci Topluluklari macerası, Silikon Vadisi'nde 'Developer Relations' kariyerine sürüklerken, en son kendini Flutter ekibinde buldu. 4 yildir Google'da çalışıyor. Yazilimci topluluklari, Flutter ve Karadeniz çayı hakkında konuşmak en sevdigi, bi yerlerde görürseniz lütfen gidin merhaba deyin. ",
         "shortBio": "Nilay, Amerika'da Flutter ekibinde çalışıyor.",
         "title": "DevRel Program Manager for Flutter and Dart"
-     },
+    },
     "Ryan_Fanelli": {
         "name": "Ryan Fanelli",
         "order": 0,
@@ -780,5 +780,71 @@
         "bio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
         "shortBio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
         "title": "Software Engineer"
+    },
+    "daron_yondem": {
+        "name": "Daron Yöndem",
+        "order": 5,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://www.twitter.com/Daronyondem",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "company": "XOGO",
+        "companyLogoUrl": "https://static1.squarespace.com/static/58fe921246c3c4afb89c36e5/t/58fec269e58c629c7eefe5a6/1572467210407/?format=1500w",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/2019.jpg?alt=media&token=5c160a15-2871-49cc-a189-8207680d2cee",
+        "country": "Istanbul",
+        "bio": "Daron is a Microsoft Regional Director and an Azure MVP since 2008. He is a regular speaker at international conferences focusing on Microservices, Serverless, and IoT. Daron currently works as a CTO in XOMNI Inc, a cloud company building PAAS offerings for retailers and XOGO where they are building a decision signage platform.",
+        "shortBio": "Daron is a Microsoft Regional Director and an Azure MVP since 2008. He is a regular speaker at international conferences focusing on Microservices, Serverless, and IoT. ",
+        "title": "CTO"
+    },
+    "kemal_ugur": {
+        "name": "Kemal Ugur",
+        "order": 5,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/kemalugur/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "company": "Pixery",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/pixery%20logo.jpg?alt=media&token=ee4f6c70-d979-4d25-9707-cb4b769304ad",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFn-xstbjNCEg/profile-displayphoto-shrink_200_200/0?e=1579132800&v=beta&t=4UKm3q5pE54l-yaf_AO5GYNBje50scNWyCXeOSQkRtg",
+        "country": "Istanbul",
+        "bio": "Kemal Ugur is the Co-Founder and CEO of Pixery. With two R&D offices in Istanbul & Ankara, Pixery is a global tech company building innovative video focused apps for next generation mobile creatives. Before that, Kemal was leading the Audiovisual Content Representation team at Nokia Research Center, where he invented/co-invented many technologies that are included in video coding standards. Kemal is an inventor/co-inventor of around 70 patent applications and 50 academic publications in these areas. ",
+        "shortBio": "Kemal Ugur is the Co-Founder and CEO of Pixery.",
+        "title": "Co-Founder & CEO"
+    },
+    "erol_kaftanoglu": {
+        "name": "Erol Kaftanoglu",
+        "order": 5,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/erolkaftanoglu/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Firebase"
+        ],
+        "company": "Blindid",
+        "companyLogoUrl": "https://blindid.app/_next/static/images/logo-8e6f083c2486cba3c067d6eb6316976d.png",
+        "photoUrl": "http://erolkaftanoglu.com/images/profile.jpg",
+        "country": "Istanbul",
+        "bio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum, GDG Istanbulda organizatörlük yapıyorum.",
+        "shortBio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum",
+        "title": "Android Developer"
     }
 }

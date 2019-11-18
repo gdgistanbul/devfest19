@@ -10,5 +10,41 @@
         "name": "Wtm Istanbul",
         "logoUrl": "https://etkinlik.webrazzi.com/uploads/organizers/original/588ca82d7af53-1866238077.png",
         "order": 0
+    },
+    "002": {
+        "url": "https://www.meetup.com/Facebook-Developer-Circle-Istanbul/",
+        "name": "Facebook Developer Circle Istanbul",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/g12.png?alt=media&token=456e7190-f49e-4da8-a566-120b8ef29abe",
+        "order": 0
+    },
+    "003": {
+        "url": "https://agiledaysistanbul.org/",
+        "name": "Agile Days Istanbul",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/AgileDays.png?alt=media&token=ffed6c68-980c-4e97-9be8-99e2817bb75c",
+        "order": 0
+    },
+    "004": {
+        "url": "https://turkiye.ai/",
+        "name": "Turkiye Ai",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/TRAI%20logo.png?alt=media&token=66158259-842c-4b33-bef5-dd9ec55ea9e4",
+        "order": 0
+    },
+    "005": {
+        "url": "https://kodluyoruz.com/",
+        "name": "Kodluyoruz",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/kodluyoruz_logo_kare_slogan__turuncu%404x.png?alt=media&token=7408565c-70f0-48db-ad60-4b3e4ea96471",
+        "order": 0
+    },
+    "006": {
+        "url": "https://twitter.com/juniortalks?lang=en",
+        "name": "Junior Talk",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/JuniorTalks%20(1).png?alt=media&token=d86cbee8-b903-4108-a9bb-5720f6d3297a",
+        "order": 0
+    },
+    "007": {
+        "url": "https://twitter.com/tmlabstudio?lang=en",
+        "name": "TM Labs",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/WhatsApp%20Image%202019-11-18%20at%2015.13.06.jpeg?alt=media&token=eb93c90a-07be-430a-961d-a720622cd022",
+        "order": 0
     }
 }

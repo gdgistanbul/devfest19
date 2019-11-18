@@ -1,11 +1,5 @@
 {
     "000": {
-        "url": "https://developers.google.com/",
-        "name": "Google",
-        "logoUrl": "../images/logos/google.svg",
-        "order": 0
-    },
-    "000": {
         "order": 0,
         "url": "https://peak.com/",
         "name": "Peak Games",
