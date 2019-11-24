@@ -13,7 +13,7 @@
     },
     "102": {
         "title": "Flashy and smooth web animations",
-        "language": "English, TR",
+        "language": "TR",
         "description": "To achieve flashy and smooth animations on web browsers, a developer needs to know first how a brain perceives animations and second how a browser works. This session is about the perception of speed, browser timeline, examples and tips for flashy animations.",
         "complexity": "GDG",
         "tags": [
@@ -141,7 +141,7 @@
         "speakers": [
             "necatisozer"
         ],
-        "title": "Simple UI Development With Jetpack Compose"
+        "title": "Declarative UI Paradigm feat. Jetpack Compose"
     },
     "113": {
         "language": "English",
@@ -197,6 +197,7 @@
             "Android",
             "Mobile Technologies"
         ],
+        "complexity": "Advanced",
         "speakers": [
             "damian_burke"
         ],
@@ -214,15 +215,15 @@
         "title": "Building Games For The Google Assistant"
     },
     "119": {
-        "language": "English",
-        "description": "Mainly the presentation would be to go through all 12 factors and for each provide tech capabilities GKE is currently offering that facilitate the implementation of those 12 factor apps. For example for the logs management, GKE offers out of the box monitoring with Stackdriver and show a demo on how it works/how to enable. Could also possible cover Anthos (as extension to the presentation).",
+        "language": "TR",
+        "description": "Soon",
         "tags": [
-            "Cloud"
+            "Software Programing"
         ],
         "speakers": [
-            "ecaterina_grisaeva"
+            "LemiOrganErgin"
         ],
-        "title": "12 Factor App with GKE"
+        "title": "10 exclusive development practice every developer should consider"
     },
     "120": {
         "language": "TR",
@@ -281,14 +282,13 @@
     },
     "125": {
         "language": "TR",
-        "description": "Everybody who has ever worked in a team where unit tests are considered seriously knows this feeling. You do some non-trivial code changes and your tests - which were supposed to make refactoring easier and safer - don't even compile. Despite the fact tests became much more common in the Android world than they used to be and developers have a more mature tooling available at hand, we still often fall into a trap of making our specs too coupled to the actual implementation. During my presentation I will show you a few simple tricks that can be commonly applied so that your tests will become more of a help, and less of a burden.",
+        "description": "",
         "tags": [
-            "Mobile Technologies"
+            "Flutter"
         ],
         "speakers": [
-            "mateusz_herych"
         ],
-        "title": "Mocks vs Fakes vs Stubs - how to apply different techniques to write better tests."
+        "title": "Soon"
     },
     "126": {
         "language": "TR",
@@ -303,7 +303,7 @@
     },
     "128": {
         "language": "TR",
-        "description": "TBA",
+        "description": "Kotlin is awesome and you want to write all your code in it, but what about the thousands of lines of code already written in the Java programming language? Or, maybe you have a library or project that is written in Java and already has been used in so many Kotlin or Java projects. In this talk, we will look at the best practices for writing Kotlin and Java code that works so seamlessly from the other that the only way to what language it is written in is to look at the source code.",
         "tags": [
             "Mobile Technologies"
         ],
@@ -314,7 +314,7 @@
     },
     "127": {
         "language": "TR",
-        "description": "TBA",
+        "description": "New UI Features are the most visible changes for you app users. As the OS and the other apps move forward, your app can easily left out with a broken experience. Come to this talk to learn more about new UI features that can make your application stand out. In this talk, you’ll learn how to implement the new Android Q UI features that will bring your app’s User Experience to a new level: - Foldables - Gestural Navigation and Edge to Edge display - Direct Share improvements - Bubbles - Settings Panels and more!",
         "tags": [
             "Mobile Technologies"
         ],
@@ -329,7 +329,7 @@
         "tags": [
             "Panel"
         ],
-        "speakers": [],
+        "speakers": ["OmerAbi", "LemiOrganErgin","SimayDinc", "EbruYildirim"],
         "title": "Panel"
     },
     "130": {
@@ -386,6 +386,9 @@
     "139": {
         "language": "English",
         "description": "",
+        "speakers": [
+            "BarisYesugey"
+        ],
         "title": "Keynote"
     },
     "140": {
@@ -477,7 +480,11 @@
         "tags": [
             "Machine Learning & AI"
         ],
-        "title": "DEEPNLP"
+        "speakers": [
+            "Meysam_Asgarichenaghlou",
+            "Omid_Safarzadeh"
+        ],
+        "title": "Deep NLP: Seq2seq model for Neural Machine translation"
     },
     "149": {
         "language": "TR",
@@ -491,26 +498,37 @@
         "title": "Exploring Firebase Predictions"
     },
     "150": {
-        "language": "TR",
-        "description": "soon",
+        "language": "EN",
+        "description": "Peak decided to move to a container based environment. We chose Kubernetes. The migration has been ongoing for some time, during which we faced many problems and solved many questions that we had. We would like to share insights about our experience during this journey with Kubernetes.",
         "tags": [
             "Games"
         ],
-        "title": "Peak"
+        "speakers": [
+            "KrisztianKornelBanhidy"
+        ],
+        "title": "Peak's Journey with Kubernetes"
     },
     "151": {
         "language": "TR",
-        "description": "soon",
+        "description": "We'll talk about features of dark mode and colours. Why dark mode became popular these days? Is it applied correctly?",
         "tags": [
             "Design"
         ],
-        "title": "TM Labs"
+        "speakers": [
+            "orcun_kilic",
+            "arda_arican"
+        ],
+        "title": "Darkside of Design"
     },
     "152": {
         "language": "TR",
         "description": "SessionAbstract: Jetpack Navigation Component simplifies implementing navigation, also helps you visualize your app’s navigation flow. In this session, We will take a look Jetpack Navigation Component and learn basic usage of its.",
         "tags": [
             "Mobile Technologies"
+        ],
+        "speakers": [
+            "cafer_mert_CEYHAN",
+            "okan_aydin"
         ],
         "title": "Manage UI Navigation with Jetpack Navigation Component"
     },
@@ -519,6 +537,9 @@
         "description": "Soon",
         "tags": [
             "Mobile Technologies"
+        ],
+        "speakers": [
+            "ali_can_batur"
         ],
         "title": "PropertyWrappers in Swift"
     }

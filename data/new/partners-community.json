@@ -38,13 +38,25 @@
     "006": {
         "url": "https://twitter.com/juniortalks?lang=en",
         "name": "Junior Talk",
-        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/JuniorTalks%20(1).png?alt=media&token=d86cbee8-b903-4108-a9bb-5720f6d3297a",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/Jr_Kurumsal.png?alt=media&token=a9c7e67a-b912-4f17-ac99-25471d88f57b",
         "order": 0
     },
     "007": {
         "url": "https://twitter.com/tmlabstudio?lang=en",
         "name": "TM Labs",
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/WhatsApp%20Image%202019-11-18%20at%2015.13.06.jpeg?alt=media&token=eb93c90a-07be-430a-961d-a720622cd022",
+        "order": 0
+    },
+    "008": {
+        "url": "https://www.mobiler.dev",
+        "name": "Mobiler Dev",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/mobiler.802a3284.png?alt=media&token=e7b9b7db-d35f-420c-a6ca-54524c004145",
+        "order": 0
+    },
+    "009": {
+        "url": "https://www.meetup.com/tr-TR/rladies-istanbul/",
+        "name": "R Ladies",
+        "logoUrl": "https://github.com/rladies/starter-kit/raw/master/logo/R-LadiesGlobal_RBG_online_LogoWithText.png",
         "order": 0
     }
 }

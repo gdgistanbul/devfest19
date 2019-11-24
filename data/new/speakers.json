@@ -186,25 +186,6 @@
         "order": 0,
         "featured": true
     },
-    "ecaterina_grisaeva": {
-        "order": 0,
-        "featured": true,
-        "company": "Google",
-        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-        "country": "París y alrededores, Francia",
-        "socials": [
-            {
-                "name": "Linkedin",
-                "icon": "linkedin",
-                "link": "http://linkedin.com/in/ecaterina-grisaeva-33b010135"
-            }
-        ],
-        "bio": "After graduating my engineering school in France (INSA Lyon) in computer science, i have joined Accenture as part of Technical Architecture entity, where i had the opportunity to work mainly on performance testing, devops and agile. After enriching years in Accenture, I am currently working as Strategic Cloud Engineer in Paris for Google and one area where I am specialising is K8S. ",
-        "shortBio": "After graduating my engineering school in France (INSA Lyon) in computer science, i have joined Accenture as part of Technical Architecture entity, where i had the opportunity to work mainly on performance testing, devops and agile.",
-        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQHku7m_yLuYNA/profile-displayphoto-shrink_800_800/0?e=1579132800&v=beta&t=cIQwj5vEJ1STz8ENig2-c0lvyRxKD6gPr8Wyw6G9I9o",
-        "name": "Ecaterina Grisaeva",
-        "title": "Strategic Cloud Engineer at Google"
-    },
     "hadi_tok": {
         "badges": [
             {
@@ -309,32 +290,6 @@
             }
         ],
         "bio": "Mark Stephens has been a speaker at DevFest 13,14, 15, 17 and 18. He is a software developer and the founder of IDRsolutions, which develops a Java PDF library and a PDF to HTML5/SVG converter. This year he is doing 3 technical talks at Oracle CodeOne and also talking at NetBeans UK, and Dawscon 2020 in Montreal.  Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference where he can combine his passion for software and history."
-    },
-    "mateusz_herych": {
-        "badges": [
-            {
-                "name": "gde",
-                "description": "Web Technologies Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory"
-            }
-        ],
-        "title": "Android GDE",
-        "order": 1,
-        "featured": true,
-        "company": "IG",
-        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEWbGiG2Avt9w/company-logo_200_200/0?e=2159024400&v=beta&t=a6ioQxzmzDSZeNzy9HBIySE9XeZtsKC9Jd0vP9ksxeM",
-        "country": "Krakow",
-        "socials": [
-            {
-                "name": "Twitter",
-                "icon": "twitter",
-                "link": "https://twitter.com/mherych"
-            }
-        ],
-        "bio": "Mateusz works as a Head of Mobile Platforms at IG - originally coming from Krakow, Poland, currently living in London. He is a member of the Google Developer Expert program on Android, and a long-time GDG Krakow organizer. Father of twins, an avid fan of rail transportation and football.",
-        "shortBio": "Mateusz works as a Head of Mobile Platforms at IG - originally coming from Krakow, Poland, currently living in London.",
-        "photoUrl": "http://www.uamobile.org/sites/default/files/mateusz_herych_1.jpg",
-        "name": "Mateusz Herych"
     },
     "metin_seylan": {
         "badges": [
@@ -846,5 +801,226 @@
         "bio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum, GDG Istanbulda organizatörlük yapıyorum.",
         "shortBio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum",
         "title": "Android Developer"
+    },
+    "okan_aydin": {
+        "name": "Okan AYDIN",
+        "order": 5,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/okanaydin34/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Android"
+        ],
+        "company": "CitizenMe",
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/okan_aydin_image.JPG?alt=media&token=affc237c-6738-413d-b31f-891f0f2bc02b",
+        "country": "Istanbul",
+        "bio": "Okan is an Android developer at citizenMe. He's studying Computer Engineering at Isik University. He tries to improve himself on Android development and try to learn as much as he can and also He has been a volunteer organizer of the GDG Istanbul community for 4 years. ",
+        "shortBio": "Okan is an Android developer at citizenMe. He's studying Computer Engineering at Isik University.",
+        "title": "Jr. Android Developer"
+    },
+    "cafer_mert_CEYHAN": {
+        "name": "Cafer Mert CEYHAN",
+        "order": 5,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/okanaydin34/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Android"
+        ],
+        "company": "Dolap.com",
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png",
+        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQGtHezOXk18BA/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=nygzKKV-VJtahEOdHlv5m356Fnv2XL7uCU2SuVWgukY",
+        "country": "Istanbul",
+        "bio": "Mert is an Android Developer at dolap.com. He mainly focuses writing clean, readable and maintainable code. He improves himself by reading blog posts, following new technologies and attending to tech events. Also, Mert has been a user group member at Google Developers Groups (GDG) Istanbul. He believes and supports community spirit, learning and sharing.  ",
+        "shortBio": "Mert is an Android Developer at dolap.com. He mainly focuses writing clean, readable and maintainable code. He improves himself by reading blog posts, following new technologies and attending to tech events. Also, Mert has been a user group member at Google Developers Groups (GDG) Istanbul. He believes and supports community spirit, learning and sharing.  ",
+        "title": "Android Developer"
+    },
+    "arda_arican": {
+        "name": "Arda Arıcan",
+        "order": 5,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/ardaarican/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Design"
+        ],
+        "company": "Protein",
+        "companyLogoUrl": "https://cdn.dribbble.com/users/1596014/avatars/normal/d4e31622a4a6ce255a9647b83e9918a6.png?1486732675",
+        "photoUrl": "https://scontent.fist6-1.fna.fbcdn.net/v/t1.0-9/52420903_10156356790718370_1822855352455004160_n.jpg?_nc_cat=110&_nc_oc=AQkWsptj5_6p-hwDq-t3gdTwHw7-SIica95xGaK9OZDwBZ42_424Qt9Z4W3v3c55o5M&_nc_ht=scontent.fist6-1.fna&oh=5c09646e7634618fbe21dc4992aaeb0e&oe=5E48D8C2",
+        "country": "Istanbul",
+        "bio": "I’m designer with principles, both adventures and geeky at certain times. I make comprehensible designing user interface for people. Sr. Product Designer @Protien",
+        "shortBio": "I’m designer with principles, both adventures and geeky at certain times.",
+        "title": "Product Designer"
+    },
+    "orcun_kilic": {
+        "name": "Orçun Kılıç",
+        "order": 5,
+        "featured": true,
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/orrcunkilic/",
+                "name": "Twitter"
+            }
+        ],
+        "tags": [
+            "Design"
+        ],
+        "company": "Protein",
+        "companyLogoUrl": "https://cdn.dribbble.com/users/1596014/avatars/normal/d4e31622a4a6ce255a9647b83e9918a6.png?1486732675",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1149288222259863553/dyc0H_GE_400x400.jpg",
+        "country": "Istanbul",
+        "bio": "Orçun Kılıç İstanbul Bilgi Üniversitesi VCD Mezunu ve aynı zamanda TMLabStudio kurucu ortrağıdır. Protein'de tasarım takım lideri olarak görev almaktadır.",
+        "shortBio": "Orçun Kılıç İstanbul Bilgi Üniversitesi VCD Mezunu ve aynı zamanda TMLabStudio kurucu ortrağıdır.",
+        "title": "Head of Design"
+    },
+    "KrisztianKornelBanhidy": {
+        "order": 0,
+        "bio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company.",
+        "company": "Peak",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/peak-logo-transparent.png?alt=media&token=362e879c-cc1b-4d05-ad0a-42e3a1db8a32",
+        "country": "Turkey",
+        "featured": true,
+        "name": "Krisztian Kornel Banhidy",
+        "title": "Sr. DevOps Engineer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/IMG_0432.jpg?alt=media&token=5f30909f-5ab6-4b7c-b8be-c78e85c00c1e",
+        "shortBio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company.",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/s4mur4i/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "cloud"
+        ]
+    },
+    "BarisYesugey": {
+        "order": 1,
+        "bio": "Üniversite eğitimini İngiltere'de (Bilgisayar Bilimleri) tamamlayan Barış, Facebook ve Paypal'da satış ve çözüm mühendisi olarak geliştiricilerin platform teknolojilerini uygulama ve servislerine entegre etmesinde destek oldu. Şu anda, Google Ekosistem takiminda, Google Gelistirici Platform ürünlerini Türkiye, Kafkaslar ve Asya bölgeside yasayan geliştiricilere tanitmaktadir.",
+        "company": "Google",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/google.png?alt=media&token=29967743-e249-47f4-bf47-1184a9047c85",
+        "country": "Turkey",
+        "featured": true,
+        "name": "Barış Yesügey",
+        "title": "Developer Relations Region Lead",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/barisyesugey.jpg?alt=media&token=2ede0cfa-694e-40bb-a0e7-0de9358f1abd",
+        "shortBio": "Google Ekosistem takiminda, Google Gelistirici Platform ürünlerini Türkiye, Kafkaslar ve Asya bölgeside yasayan geliştiricilere tanitmaktadir.",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/barisyesugey/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Web",
+            "Keynote"
+        ]
+    },
+    "LemiOrganErgin": {
+        "order": 1,
+        "bio": "Software craftsman, Agile enthusiast, technical architect, passionate developer, Agile culture cultivator, Agile coach, Scrum / Kanban practitioner and trainer, Management 3.0 trainer, experienced mentor, engineering booster, Git trainer and lover, the TDD guy, clean coder, infected with the technical side of Agile, presentation and visualization freak, non-stop learner, full time apprentice of my masters, the community guy... All I want is to work with you to build a better development culture with both process and technical sides and to see happy faces at the end.",
+        "company": "Craftbase",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHDsrR97LJqFw/company-logo_200_200/0?e=2159024400&v=beta&t=bFbShEasOhZQalpry2uFAA7Q23euJqNcNiXYdXW8GqM",
+        "country": "Turkey",
+        "featured": true,
+        "name": "Lemi Orhan Ergin",
+        "title": "Agile Software Crafter & Co-Founder at Craftbase",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQGDzLBr1lXt9g/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=K56vrxFyE78OLKw-q5k_Za_boF4Oius4AWZBeA5bXjE",
+        "shortBio": "Software craftsman, Agile enthusiast, technical architect, passionate developer, Agile culture cultivator, Agile coach, Scrum / Kanban practitioner and trainer..",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/lemiorhan/",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Panelist"
+        ]
+    },
+    "SimayDinc": {
+        "order": 1,
+        "bio": "Istanbul Üniversitesi İşletme Fakultesinden 2005 yılında mezun olan Simay Dinç 10 yıl boyunca teknoloji, sanat ve oyun için 35’i aşkın ülkeye tek başına seyahat etti, eğitim ve araştırma yapma fırsatı buldu.  Women in Games Turkiye’nin kurucusu olan Simay Dinç, sinematografik mobil oyunlar üreten Recontact Games’in kurucu ortağı. Yapımcısı olduğu Recontact:Istanbul, Apple tarafından 2015 yılında Türkiye’nin en iyi mobil oyun seçildi, 153 ülkede en yenilikçi oyun kategorisinde lanse edildi. İkinci projeleri Türkiye’nin ilk sinematografik mobil oyunu olan ‘Eyes of Sky’ dünya çapında ödüller aldı. Oyun dünyasının potansiyeline ve sosyal etkisine inanan Simay Dinç, Ayvalık’ta köy çocuklarına ücretsiz oyun tasarımı, kodlama, sinematografi gibi derslerin verildiği, yaratıcı endustriler için tasarlanmış co-working alanı ”Kıraarthane”nin kurucu ortağı. Simay, sadece kendi girişimleri üzerinde çalışmıyor aynı zamanda Rising Tide Europe’da melek yatırımcı olarak yer alıyor ve yaratıcı endustrilere yatırım yapıyor.",
+        "company": "OYUNDER",
+        "companyLogoUrl": "",
+        "country": "Turkey",
+        "featured": true,
+        "name": "Simay Dinç",
+        "title": "OYUNDER",
+        "photoUrl": "https://media.licdn.com/dms/image/C5603AQECLc9lbWwpgw/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=t2bspYFExEDzhN4GJKLOyoESi6Ra0vdvs_NfKmVOJjM",
+        "shortBio": "Istanbul Üniversitesi İşletme Fakultesinden 2005 yılında mezun olan Simay Dinç 10 yıl boyunca teknoloji, sanat ve oyun için 35’i aşkın ülkeye tek başına seyahat etti, eğitim ve araştırma yapma fırsatı buldu...",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/simay-dinç-9b070551",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Panelist"
+        ]
+    },
+    "OmerAbi": {
+        "order": 1,
+        "bio": "Ömer Erkmen who had his Electrical and Electronics degree from İTU in 1979 graduated from UCSB Computer Science with a master’s degree in 1984 joined Mekanist and became a member of the Board of Directors after completing his corporate work life at Microsoft as an instructor and advisor in the field of CRM. Upon acquisition of the company by Zomato in 2015, he started taking a more active role in fields of entrepreneurship and investment. He has been involved in many projects as founder, mentor and investor and he is still working in entrepreneurship field without a break. Business enterprises he has been a part of: Scorp, Flightrecorder, Ideasoft, Blesh, Temizlikyolda, Bionluk, Kolay Randevu, Connected2me, Erasmusinn and English Ninjas.",
+        "company": "Abi",
+        "companyLogoUrl": "",
+        "country": "Turkey",
+        "featured": true,
+        "name": "Ömer Abi",
+        "title": "Co-Founder at Yeni Nesil Kafası",
+        "photoUrl": "https://digitalagesummit.com/wp-content/uploads/2018/04/%C3%96mer-Erkmen1.jpg",
+        "shortBio": "Ömer Erkmen who had his Electrical and Electronics degree from İTU in 1979 graduated from UCSB Computer Science with a master’s degree in 1984 joined Mekanist and became a member of the Board of Directors after completing his corporate work life at Microsoft as an instructor and advisor in the field of CRM.",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/omererkmen",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Panelist"
+        ]
+    },
+    "EbruYildirim": {
+        "order": 1,
+        "bio": "Soon",
+        "company": "Ollang",
+        "companyLogoUrl": "",
+        "country": "Turkey",
+        "featured": true,
+        "name": "Ebru Yıldırın",
+        "title": "Founder & CEO at Ollang",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFn-KdEuNyWyw/profile-displayphoto-shrink_200_200/0?e=1580342400&v=beta&t=1T4PPvqLCouV219lBpNOWqq7xMdc6gm2qU-HpNVQdzc",
+        "shortBio": "Soon",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/ebru-yıldırım-9b575128",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Panelist"
+        ]
     }
 }
