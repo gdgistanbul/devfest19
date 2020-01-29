@@ -1022,5 +1022,27 @@
         "tags": [
             "Panelist"
         ]
+    },
+    "sercnayusuf": {
+        "order": 1,
+        "bio": "Soon",
+        "company": "GDG Istanbul",
+        "companyLogoUrl": "",
+        "country": "Turkey",
+        "featured": true,
+        "name": "Sercan Yusuf",
+        "title": "Android Developer",
+        "photoUrl": "",
+        "shortBio": "Soon",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/sercanyusuf",
+                "name": "Linkedin"
+            }
+        ],
+        "tags": [
+            "Flutter"
+        ]
     }
 }
